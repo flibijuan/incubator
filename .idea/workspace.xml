@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca8e9f96-613f-4e6e-a15a-f81f540e0cbd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundry 1.7.4/img/Foundfair_2015_Katharina.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Foundry 1.7.4/img/incubator-home.html" />
     </list>
     <ignored path="Kiron.incubator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,10 +53,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="builder.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="builder.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/variant/builder.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <marker date="1442844572000" expanded="true" signature="227905:228372" placeholder="{...}" />
@@ -177,6 +176,16 @@
                 <marker date="1442844572000" expanded="true" signature="281334:283454" placeholder="{&quot;name&quot;: &quot;ET Line&quot;...}" />
                 <marker date="1442844572000" expanded="true" signature="283461:286891" placeholder="{&quot;name&quot;: &quot;Pixeden 7 Stroke&quot;...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="incubator-home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/img/incubator-home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -840,6 +849,14 @@
             <marker date="1442844572000" expanded="true" signature="281334:283454" placeholder="{&quot;name&quot;: &quot;ET Line&quot;...}" />
             <marker date="1442844572000" expanded="true" signature="283461:286891" placeholder="{&quot;name&quot;: &quot;Pixeden 7 Stroke&quot;...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/img/incubator-home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
