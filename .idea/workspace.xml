@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca8e9f96-613f-4e6e-a15a-f81f540e0cbd" name="Default" comment="" />
+    <list default="true" id="ca8e9f96-613f-4e6e-a15a-f81f540e0cbd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Kiron.incubator.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +56,8 @@
       <file leaf-file-name="builder.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/variant/builder.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27972028">
-              <caret line="133" column="30" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.24475524">
+              <caret line="140" column="22" selection-start-line="140" selection-start-column="22" selection-end-line="140" selection-end-column="22" />
               <folding>
                 <marker date="1442844572000" expanded="true" signature="227905:228372" placeholder="{...}" />
                 <marker date="1442844572000" expanded="true" signature="227916:228371" placeholder="[...]" />
@@ -282,14 +284,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="variant" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -348,6 +350,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
   </component>
@@ -365,10 +373,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="23" width="1408" height="807" extended-state="6" />
-    <editor active="false" />
+    <frame x="30" y="23" width="1408" height="807" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -379,13 +387,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -400,12 +408,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24892704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -424,6 +432,168 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/Variant Docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/variant/builder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="133" column="30" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
+          <folding>
+            <marker date="1442844572000" expanded="true" signature="227905:228372" placeholder="{...}" />
+            <marker date="1442844572000" expanded="true" signature="227916:228371" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="227930:228114" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="228128:228361" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="232330:232797" placeholder="{...}" />
+            <marker date="1442844572000" expanded="true" signature="232341:232796" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="232355:232539" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="232553:232786" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="237323:237790" placeholder="{...}" />
+            <marker date="1442844572000" expanded="true" signature="237334:237789" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="237348:237532" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="237546:237779" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="239317:239784" placeholder="{...}" />
+            <marker date="1442844572000" expanded="true" signature="239328:239783" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="239342:239526" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="239540:239773" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="252262:253257" placeholder="{...}" />
+            <marker date="1442844572000" expanded="true" signature="252284:252420" placeholder="{&quot;name&quot;: &quot;Foundry&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="252441:253252" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="252448:252507" placeholder="{&quot;name&quot;: &quot;Nature&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="252514:252576" placeholder="{&quot;name&quot;: &quot;Nearblack&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="252583:252640" placeholder="{&quot;name&quot;: &quot;Navy&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="252647:252708" placeholder="{&quot;name&quot;: &quot;Gunmetal&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="252715:252775" placeholder="{&quot;name&quot;: &quot;Startup&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="252782:252844" placeholder="{&quot;name&quot;: &quot;Hyperblue&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="252851:252910" placeholder="{&quot;name&quot;: &quot;Purple&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="252917:252973" placeholder="{&quot;name&quot;: &quot;Red&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="252980:253037" placeholder="{&quot;name&quot;: &quot;Fire&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="253044:253103" placeholder="{&quot;name&quot;: &quot;Orange&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="253110:253171" placeholder="{&quot;name&quot;: &quot;Chipotle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="253178:253240" placeholder="{&quot;name&quot;: &quot;OffYellow&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="253323:255281" placeholder="{&quot;title&quot;: &quot;Typography&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="253369:253491" placeholder="{&quot;setName&quot;: &quot;Raleway&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="253410:253462" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="253418:253455" placeholder="{&quot;fontName&quot;: &quot;Raleway&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="253475:253485" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="253512:255276" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="253519:253720" placeholder="{&quot;setName&quot;: &quot;Oswald&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="253561:253617" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="253570:253609" placeholder="{&quot;fontName&quot;: &quot;Oswald&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="253631:253713" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="253727:253932" placeholder="{&quot;setName&quot;: &quot;Roboto&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="253769:253825" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="253778:253817" placeholder="{&quot;fontName&quot;: &quot;Roboto&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="253839:253925" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="253939:254178" placeholder="{&quot;setName&quot;: &quot;RobotoCondensed&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="253990:254055" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="253999:254047" placeholder="{&quot;fontName&quot;: &quot;RobotoCondensed&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="254069:254171" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="254185:254397" placeholder="{&quot;setName&quot;: &quot;OpenSans&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="254229:254287" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="254238:254279" placeholder="{&quot;fontName&quot;: &quot;Opensans&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="254301:254390" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="254404:254622" placeholder="{&quot;setName&quot;: &quot;Titillium&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="254449:254508" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="254458:254500" placeholder="{&quot;fontName&quot;: &quot;Titillium&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="254522:254615" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="254629:254846" placeholder="{&quot;setName&quot;: &quot;Montserrat&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="254675:254735" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="254684:254727" placeholder="{&quot;fontName&quot;: &quot;Montserrat&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="254749:254839" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="254853:255055" placeholder="{&quot;setName&quot;: &quot;Dosis&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="254894:254949" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="254903:254941" placeholder="{&quot;fontName&quot;: &quot;Dosis&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="254963:255048" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="255062:255270" placeholder="{&quot;setName&quot;: &quot;Poppins&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="255105:255162" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="255114:255154" placeholder="{&quot;fontName&quot;: &quot;Poppins&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="255176:255263" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="255343:255664" placeholder="{...}" />
+            <marker date="1442844572000" expanded="true" signature="255360:255659" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="255367:255509" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="255516:255653" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="255749:258452" placeholder="{...}" />
+            <marker date="1442844572000" expanded="true" signature="255766:258447" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="255773:255996" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="256003:256237" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="256244:256485" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="256492:256683" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="256690:256871" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="256878:257048" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="257055:257230" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="257237:257418" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="257425:257606" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="257613:257801" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="257808:258035" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="258042:258252" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="258259:258441" placeholder="{&quot;type&quot;: &quot;toggle&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="258513:266351" placeholder="{...}" />
+            <marker date="1442844572000" expanded="true" signature="258530:266346" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="258537:258904" placeholder="{&quot;buttonText&quot;: &quot;Edit Placeholder&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="258911:259239" placeholder="{&quot;buttonText&quot;: &quot;Edit Value&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="259246:259607" placeholder="{&quot;buttonText&quot;: &quot;Edit Feed&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="259614:260036" placeholder="{&quot;buttonText&quot;: &quot;Edit Twitter Widget&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="260043:260393" placeholder="{&quot;buttonText&quot;: &quot;Edit Map Embed&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="260400:260760" placeholder="{&quot;buttonText&quot;: &quot;Edit Media Embed&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="260767:261314" placeholder="{&quot;buttonText&quot;: &quot;Edit Newsletter Embed&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="261321:261707" placeholder="{&quot;buttonText&quot;: &quot;Edit Form Success Message&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="261714:262083" placeholder="{&quot;buttonText&quot;: &quot;Edit Form Error Message&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="262090:262521" placeholder="{&quot;buttonText&quot;: &quot;Edit Form Redirect Address&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="262528:262863" placeholder="{&quot;buttonText&quot;: &quot;Edit Countdown Date&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="262870:263225" placeholder="{&quot;buttonText&quot;: &quot;Edit Progress Amount&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="263232:263571" placeholder="{&quot;buttonText&quot;: &quot;Edit Project Category&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="263578:263929" placeholder="{&quot;buttonText&quot;: &quot;Edit Video Embed Code&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="263936:264276" placeholder="{&quot;buttonText&quot;: &quot;Edit Gallery Title&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="264283:264760" placeholder="{&quot;buttonText&quot;: &quot;Edit Disqus Shortname&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="264767:265167" placeholder="{&quot;buttonText&quot;: &quot;Edit Google Maps API Key&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="265174:265540" placeholder="{&quot;buttonText&quot;: &quot;Edit Map Address&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="265547:265938" placeholder="{&quot;buttonText&quot;: &quot;Edit Map Style&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="265945:266340" placeholder="{&quot;buttonText&quot;: &quot;Edit Map Zoom Level&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="266412:286902" placeholder="{...}" />
+            <marker date="1442844572000" expanded="true" signature="266430:286897" placeholder="[...]" />
+            <marker date="1442844572000" expanded="true" signature="266437:272311" placeholder="{&quot;name&quot;: &quot;Themify&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="272318:281327" placeholder="{&quot;name&quot;: &quot;Font Awesome&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="281334:283454" placeholder="{&quot;name&quot;: &quot;ET Line&quot;...}" />
+            <marker date="1442844572000" expanded="true" signature="283461:286891" placeholder="{&quot;name&quot;: &quot;Pixeden 7 Stroke&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/img/startupboat.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/incubator-home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1096,10 +1266,20 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/img/boat.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/img/startupboat.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/variant/builder.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27972028">
-          <caret line="133" column="30" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.24475524">
+          <caret line="140" column="22" selection-start-line="140" selection-start-column="22" selection-end-line="140" selection-end-column="22" />
           <folding>
             <marker date="1442844572000" expanded="true" signature="227905:228372" placeholder="{...}" />
             <marker date="1442844572000" expanded="true" signature="227916:228371" placeholder="[...]" />
