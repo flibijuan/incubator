@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html >
-	    <link rel="stylesheet" href="css/timeline.css">
 
 
 	<div class="container">
