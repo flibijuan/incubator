@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca8e9f96-613f-4e6e-a15a-f81f540e0cbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundry 1.7.4/img/EDX.png" afterPath="$PROJECT_DIR$/Foundry 1.7.4/img/EDX.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundry 1.7.4/img/HPI.png" afterPath="$PROJECT_DIR$/Foundry 1.7.4/img/HPI.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundry 1.7.4/img/RWTH.png" afterPath="$PROJECT_DIR$/Foundry 1.7.4/img/RWTH.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundry 1.7.4/img/SIL.png" afterPath="$PROJECT_DIR$/Foundry 1.7.4/img/SIL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundry 1.7.4/img/UNCHR.png" afterPath="$PROJECT_DIR$/Foundry 1.7.4/img/UNCHR.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Foundry 1.7.4/img/hhn.png" afterPath="$PROJECT_DIR$/Foundry 1.7.4/img/hhn.png" />
     </list>
     <ignored path="Kiron.incubator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,10 +58,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="builder.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="builder.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/variant/builder.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24475524">
+            <state vertical-scroll-proportion="-4.375">
               <caret line="140" column="22" selection-start-line="140" selection-start-column="22" selection-end-line="140" selection-end-column="22" />
               <folding>
                 <marker date="1442844572000" expanded="true" signature="227905:228372" placeholder="{...}" />
@@ -177,6 +182,20 @@
                 <marker date="1442844572000" expanded="true" signature="283461:286891" placeholder="{&quot;name&quot;: &quot;Pixeden 7 Stroke&quot;...}" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="avatar2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/img/avatar2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UNCHR.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/img/UNCHR.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -301,8 +320,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Foundry 1.7.4/variant" />
       <recent name="$PROJECT_DIR$/Foundry 1.7.4/img" />
+      <recent name="$PROJECT_DIR$/Foundry 1.7.4/variant" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Foundry 1.7.4" />
@@ -1278,7 +1297,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/variant/builder.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24475524">
+        <state vertical-scroll-proportion="-4.375">
           <caret line="140" column="22" selection-start-line="140" selection-start-column="22" selection-end-line="140" selection-end-column="22" />
           <folding>
             <marker date="1442844572000" expanded="true" signature="227905:228372" placeholder="{...}" />
@@ -1399,6 +1418,16 @@
             <marker date="1442844572000" expanded="true" signature="283461:286891" placeholder="{&quot;name&quot;: &quot;Pixeden 7 Stroke&quot;...}" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/img/avatar2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundry 1.7.4/img/UNCHR.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
