@@ -11,8 +11,8 @@ Version 1.0 September 2015
 Include after <html> and before <body>
 
 <head>
+    <?php $docpath = $_SERVER['DOCUMENT_ROOT'];?>
     <?php include_once($docpath . "/php/head.php"); ?>
-
     <title> INDIVIDUAL PAGE TITLE HERE </title>
 
 </head>
