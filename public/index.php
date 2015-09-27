@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>Edit title tag</title>
+        <title>Kiron Ventures | Home </title>
       	<meta charset="utf-8">
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="css/et-line-icons.css" rel="stylesheet" type="text/css" media="all">
