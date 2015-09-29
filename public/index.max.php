@@ -261,7 +261,7 @@
         <!-- removed @adam <script src="js/smooth-scroll.min.js"></script> -->
 
         <script src="js/parallax.js"></script>
-        <script src="js/scripts.js"></script>
+        <script src="js/scripts.min.js"></script>
     </body>
 </html>
 				

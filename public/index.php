@@ -194,6 +194,6 @@ designed for the integration of corporates, investors and start-ups to help to t
 <script src=js/bootstrap.min.js></script>
 <script src=js/flexslider.min.js></script>
 <script src=js/parallax.js></script>
-<script src=js/scripts.js></script>
+<script src=js/scripts.min.js></script>
 </body>
 </html>
