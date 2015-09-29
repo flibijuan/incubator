@@ -14,7 +14,6 @@ Include after <html> and before <body>
     <?php $docpath = $_SERVER['DOCUMENT_ROOT'];?>
     <?php include_once($docpath . "/php/head.php"); ?>
     <title> INDIVIDUAL PAGE TITLE HERE </title>
-
 </head>
 
 Foundry Default Version:
