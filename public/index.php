@@ -290,14 +290,17 @@
 		                    <p class="mb40 mb-xs-24">with our partners we want to give the environment and network to create impact</p>
 		                    
 		                </div>
+		             </div>
+		            <div class="row">
+
 		            <div class="col-sm-12 text-center spread-children-large">
-		                    <img alt="Pic" src="img/UNCHR.png">
-		                    <img alt="Pic" src="img/SIL.png">
-		                    <img alt="Pic" src="img/LUL.png">
-		                    <img alt="Pic" src="img/RWTH.png">
-		                    <img alt="Pic" src="img/HPI.png">
-		                </div></div>
-		            
+		            <div class="col-sm-2 text-center"> <img class="img-responsive" alt="Pic" src="img/UNCHRB.png"></div>
+		            <div class="col-sm-2 text-center"> <img class="img-responsive" alt="Pic" src="img/SILB.png"></div>
+                    <div class="col-sm-2 text-center"> <img class="img-responsive" alt="Pic" src="img/LULB.png"></div>
+		            <div class="col-sm-2 text-center"> <img class="img-responsive" alt="Pic" src="img/RWTHB.png"></div>
+		            <div class="col-sm-2 text-center"> <img class="img-responsive" alt="Pic" src="img/HPIB.png"></div>
+
+		                </div>
 		        </div>
 		        
 		    </section><section class="bg-dark pt64 pb64">
