@@ -11,18 +11,3 @@ input[type="file"] {
     letter-spacing: 1px;
     border-radius: 0 !important;
 }
-.bg-primary input[type="submit"] {
-    background: #fff;
-    color: #47b475;
-}
-input[type="file"]:focus {
-    outline: none;
-}
-input[type="file"].hollow {
-    background: none;
-    border: 2px solid #47b475;
-    color: #47b475;
-    transition: all 0.3s ease;
-    -webkit-transition: all 0.3s ease;
-    -moz-transition: all 0.3s ease;
-}

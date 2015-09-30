@@ -2,7 +2,6 @@
 <html lang=en>
 <head>
 <title>Kiron Ventures | Home </title>
-<meta charset=utf-8>
 <?php $docpath = $_SERVER['DOCUMENT_ROOT'];?>
 <?php include_once($docpath . "/php/head.php"); ?>
 <?php include_once("php/googleanalytics.php") ?>

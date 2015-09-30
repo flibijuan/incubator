@@ -8,7 +8,7 @@
 <ul class="menu inline-block pull-right">
 <li><a href="#">investors&nbsp;</a></li>
 <li><a href="#">corporate&nbsp;</a></li>
-<li><a href="#">Apply&nbsp;</a></li>
+<li><a href="/kironapply.php">Apply&nbsp;</a></li>
 </ul>
 </div>
 <div class="col-sm-12 col-md-5 pb-xs-24">
