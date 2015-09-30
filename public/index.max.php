@@ -42,7 +42,7 @@
 		        <ul class="slides">
 		            <li class="overlay image-bg">
 		                <div class="background-image-holder">
-		                    <img alt="image" class="background-image" src="img/home22.jpg">
+		                    <img alt="image" class="background-image" src="img/home22.jpg" width="1440" height="960">
 		                </div>
 		                <div class="container v-align-transform">
 		                    <div class="row">
@@ -58,7 +58,7 @@
 		                
 		            </li><li class="overlay image-bg">
 		                <div class="background-image-holder">
-		                    <img alt="image" class="background-image" src="img/cover8.jpg">
+		                    <img alt="image" class="background-image" src="img/cover8.jpg" width="1280" height="853">
 		                </div>
 		                <div class="container v-align-transform">
 		                    <div class="row">
@@ -129,7 +129,7 @@
 		        
 		    </section><section class="page-title page-title-2 image-bg overlay parallax">
 		        <div class="background-image-holder">
-		            <img alt="Background Image" class="background-image" src="img/cover15.jpg">
+		            <img alt="Background Image" class="background-image" src="img/cover15.jpg" width="1440" height="960">
 		        </div>
 		        <div class="container">
 		            <div class="row">
@@ -153,7 +153,7 @@
 		        
 		    </section><section class="image-bg bg-dark parallax overlay pt120 pb120">
 		        <div class="background-image-holder">
-		            <img alt="Background Image" class="background-image" src="img/boat.jpg">
+		            <img alt="Background Image" class="background-image" src="img/boat.jpg" width="1280" height="800">
 		        </div>
 		        <div class="container">
 		            <div class="row">
@@ -204,7 +204,7 @@
 		        
 		    </section><section class="image-bg parallax overlay">
 		            <div class="background-image-holder">
-		                <img alt="image" class="background-image" src="img/home-2-1.jpg">
+		                <img alt="image" class="background-image" src="img/home-2-1.jpg" width="1600" height="1067">
 		            </div>
 		            <div class="container">
 		                <div class="row mb40 mb-xs-24">
