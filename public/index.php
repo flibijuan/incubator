@@ -133,11 +133,11 @@ designed for the integration of corporates, investors and start-ups to help to t
 </div>
 <div class=row>
 <div class="col-sm-12 text-center spread-children-large">
-<div class="col-sm-2 text-center"> <img class=img-responsive alt=Pic src=img/UNCHRB.png></div>
-<div class="col-sm-2 text-center"> <img class=img-responsive alt=Pic src=img/SILB.png></div>
-<div class="col-sm-2 text-center"> <img class=img-responsive alt=Pic src=img/LULB.png></div>
-<div class="col-sm-2 text-center"> <img class=img-responsive alt=Pic src=img/RWTHB.png></div>
-<div class="col-sm-2 text-center"> <img class=img-responsive alt=Pic src=img/HPIB.png></div>
+ <div class="col-sm-2 text-center"> <img class="img-responsive" alt="Pic" src="img/UNCHRB.png" width="612" height="612"></div>
+<div class="col-sm-2 text-center"> <img class="img-responsive" alt="Pic" src="img/SILB.png"   width="612" height="612"></div>
+<div class="col-sm-2 text-center"> <img class="img-responsive" alt="Pic" src="img/LULB.png"   width="612" height="612"></div>
+<div class="col-sm-2 text-center"> <img class="img-responsive" alt="Pic" src="img/RWTHB.png"  width="612" height="612"></div>
+<div class="col-sm-2 text-center"> <img class="img-responsive" alt="Pic" src="img/HPIB.png"   width="612" height="612"></div>
 </div>
 </div>
 </section><section class="bg-dark pt64 pb64">
