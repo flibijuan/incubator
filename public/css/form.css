@@ -1,0 +1,28 @@
+input[type="file"] {
+    height: 25px;
+    line-height: 48px;
+    border: 2px solid #47b475;
+    background: #47b475;
+    color: #fff;
+    width: 100%;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border-radius: 0 !important;
+}
+.bg-primary input[type="submit"] {
+    background: #fff;
+    color: #47b475;
+}
+input[type="file"]:focus {
+    outline: none;
+}
+input[type="file"].hollow {
+    background: none;
+    border: 2px solid #47b475;
+    color: #47b475;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+}
