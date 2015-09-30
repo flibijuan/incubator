@@ -254,14 +254,18 @@
 				</div>
 			</footer></div>
 		
-				
-	    <script src="js/jquery.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/flexslider.min.js"></script>
-        <!-- removed @adam <script src="js/smooth-scroll.min.js"></script> -->
+		<!-- Include head.js -->
+        <script src="/js/head.load.min.js"></script>
+        <!-- load all js asynchronously but in order -->
+        <script>
+        head.load(	"/js/jquery.min.js",
+        			"/js/bootstrap.min.js",
+        			"/js/flexslider.min.js",
+        			"/js/parallax.js",
+        			"/js/scripts.min.js"	);
+        </script>
 
-        <script src="js/parallax.js"></script>
-        <script src="js/scripts.min.js"></script>
+
     </body>
 </html>
 				
