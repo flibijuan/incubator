@@ -12,102 +12,9 @@
     <body>
 				
 		<div class="nav-container">
-		    
-		    
-		
 		    <nav>
-		
-		        <div class="nav-bar text-center">
-		            <div class="col-md-2 col-md-push-5 col-sm-12 text-center">
-		                <a href="#">
-		                    <img alt="logo" class="image-xxs" src="img/kironventureslogo3.png">
-		                </a>
-		            </div>
-		
-		            <div class="col-sm-12 col-md-5 col-md-pull-2 overflow-hidden-xs">
-		                <ul class="menu inline-block pull-right">
-		                    <li><a href="#">investors&nbsp;</a></li><li><a href="#">corporate&nbsp;</a></li><li><a href="#">Apply&nbsp;</a></li>
-		                    
-		                </ul>
-		            </div>
-		        
-		            <div class="col-sm-12 col-md-5 pb-xs-24">
-		                <ul class="menu">
-		                    <li><a href="#">About&nbsp;</a></li><li><a href="#">Volunteers&nbsp;</a></li><li><a href="#">comunity&nbsp;</a></li>
-		                    
-		                </ul>
-		            </div>
-		        </div>
-		
-		        <div class="module widget-handle mobile-toggle right visible-sm visible-xs absolute-xs">
-		            <i class="ti-menu"></i>
-		        </div>
+		    	<?php include_once("php/navbar.php") ?>
 		    </nav>
-		
-		    
-		    
-		
-		    
-		
-		    
-		    
-		
-		    
-		    
-		
-		    
-		    
-		
-		    
-		
-		    
-		    
-		
-		    
-		
-		    
-		    
-		
-		    
-		
-		    
-		    
-		
-		    
-		    
-		
-		    
-		    
-		
-		    
-		
-		    
-		    
-		
-		    
-		
-		    
-		    
-		
-		    
-		
-		    
-		    
-		
-		    
-		
-		    
-		    
-		
-		    
-		    
-		
-		    
-		    
-		
-		    
-		    
-		
 		</div>
 		
 		<div class="main-container">
@@ -300,48 +207,28 @@
 
 		        
 		    </section>
-		    <?php include_once($docpath . "/php/form.php"); ?>
-
-
-		    <footer class="footer-2 bg-dark text-center-xs">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-4">
-							<a href="#"><div class="vnu"><img class="image-xxs fade-half" alt="Pic" src="img/kironventureslogo4.png"></div></a>
-						</div>
-					
-						<div class="col-sm-4 text-center">
-							<span class="fade-half">
-								© Copyright 2015 kiron ventures - All Rights Reserved
-							</span>
-						</div>
-					
-						<div class="col-sm-4 text-right text-center-xs">
-							<ul class="list-inline social-list">
-								
-								<li><a href="#"><i class="ti-facebook"></i></a></li>
-								
-								
-							</ul>
-						</div>
-					</div>
+		    <section class="cover fullscreen image-slider slider-arrow-controls controls-inside parallax">
+                <div class="container-clearfix">
+                    <div class="row">
+                        <div class="col-sm-12 text-center">
+		  				 	 <?php include_once($docpath . "/php/form.php"); ?>
+  						</div>
+        			</div>
 				</div>
-			</footer>
+			</section>
+
+		<?php include_once($docpath . "/php/footer.php") ?>
+
 		</div>
-		
-				
-	<script src="js/jquery.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/flexslider.min.js"></script>
-        <script src="js/lightbox.min.js"></script>
-        <script src="js/masonry.min.js"></script>
-        <script src="js/twitterfetcher.min.js"></script>
-        <script src="js/spectragram.min.js"></script>
-        <script src="js/ytplayer.min.js"></script>
-        <script src="js/countdown.min.js"></script>
-        <script src="js/smooth-scroll.min.js"></script>
-        <script src="js/parallax.js"></script>
-        <script src="js/scripts.js"></script>
+		script src="/js/head.load.min.js"></script>
+                <!-- load all js asynchronously but in order -->
+                <script>
+                head.load(	"/js/jquery.min.js",
+                			"/js/bootstrap.min.js",
+                			"/js/flexslider.min.js",
+                			"/js/parallax.js",
+                			"/js/scripts.min.js"	);
+                </script>
     </body>
 </html>
 				
