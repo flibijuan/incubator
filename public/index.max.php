@@ -145,7 +145,6 @@
 		        <div class="container">
 		            <div class="row">
 		               	<?php include_once("php/timeline.php"); ?>
-
 		            </div>
 		            
 		        </div>
