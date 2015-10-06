@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html >
-
-
 	<div class="container">
     <h3 class="project-name" style="margin-bottom:80px"> Your Path as Kiron Ventures investor</h3>
 		<div id="timeline">
@@ -45,10 +41,3 @@
 
 		</div>
 	</div>
-    
-
-    
-    
-    
-  </body>
-</html>

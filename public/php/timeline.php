@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html >
-
-
-	<div class="container">
+<div class="container">
     <h3 class="project-name" style="margin-bottom:80px">Your Path at Kiron Ventures</h3>
 		<div id="timeline">
 			<div class="timeline-item">
@@ -45,10 +41,3 @@
 
 		</div>
 	</div>
-    
-
-    
-    
-    
-  </body>
-</html>
