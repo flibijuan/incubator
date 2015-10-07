@@ -1,8 +1,7 @@
-
 <!doctype html>
 <html lang="en">
     <head>
-      <title>Kiron Ventures | Corporates </title>
+      <title>Kiron Ventures | Corporate </title>
         <?php $docpath = $_SERVER['DOCUMENT_ROOT'];?>
         <?php include_once($docpath . "/php/head.php"); ?>
         <?php include_once("php/googleanalytics.php") ?>
@@ -148,8 +147,10 @@
 
       </div>
 
+	<script src="/js/head.load.min.js"></script>
+
       <script>
-      head.load(	"/js/jquery.min.js",
+      head.load("/js/jquery.min.js",
             "/js/bootstrap.min.js",
             "/js/flexslider.min.js",
             "/js/parallax.js",
