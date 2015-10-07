@@ -55,7 +55,7 @@
 </section><section>
 <div class=container>
 <div class=row>
-<?php include_once($docpath . "/php/timelineinvestors.php"); ?>
+<?php include_once($docpath . "/php/timeline_investors.php"); ?>
 </div>
 </div>
 </section><section class=bg-secondary>
