@@ -220,7 +220,7 @@
 		<?php include_once($docpath . "/php/footer.php") ?>
 
 		</div>
-		script src="/js/head.load.min.js"></script>
+   		<script src="/js/head.load.min.js"></script>
                 <!-- load all js asynchronously but in order -->
                 <script>
                 head.load(	"/js/jquery.min.js",

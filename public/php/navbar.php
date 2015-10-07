@@ -15,7 +15,7 @@
 <ul class="menu">
 <li><a href="/about.min.php">About&nbsp;</a></li>
 <li><a href="/volunteers.min.php">Volunteers&nbsp;</a></li>
-<li><a href="#">comunity&nbsp;</a></li>
+<li><a href="/context.min.php">Context&nbsp;</a></li>
 </ul>
 </div>
 </div>
