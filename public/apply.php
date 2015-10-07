@@ -9,33 +9,48 @@
 
        		<?php include_once("php/googleanalytics.php") ?>
     </head>
-    <body>
-				
+    <body class="btn-rounded">
+
 		<div class="nav-container">
 		    <nav>
 		    	<?php include_once("php/navbar.php") ?>
 		    </nav>
 		</div>
-		
+
 		<div class="main-container">
-					
-			
-					
-			
-					
-			
-					
-			
-					
-			
-					
-			
-					
-			
-					
-			
-					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<section>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-10 col-sm-offset-1 text-center">
+                    <h3 class="uppercase color-primary mb40 mb-xs-24">Kiron ventures aplication</h3>
+                    <p class="lead">
+                        Applications for Kiron ventures can fall under 2 categories, 1) a group of entrepreneurs with an well thought idea that what’s to take it to he next level and get to know if it has market potential (pre-seed). 2) Or a group of entrepreneurs with an idea that has been validated and has some initial customer traction (seed). <br><br>
+  We expect all the teams to have projects that fulfill the following criteria:
+
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-3">
@@ -46,10 +61,10 @@
 		                        </div>
 		                        <p>
 		                            By tackling a problems affecting 50 Mio people world wide (the refugee crisis) we have gained an unique network and experience in the field of social entrepreneurship
-		
+
 		                        </p>
 		                    </div>
-		                    
+
 		                </div>
 		                <div class="col-sm-3">
 		                    <div class="feature feature-1 boxed">
@@ -59,7 +74,7 @@
 		                        </div>
 		                        <p>Every start-up will be coach by experts, investors, the best entrepreneurs in Berlin and supported by our network of partner incubators all over Europe.&nbsp;<br> </p>
 		                    </div>
-		                    
+
 		                </div>
 		                <div class="col-sm-3">
 		                    <div class="feature feature-1 boxed">
@@ -68,12 +83,12 @@
 		                            <h4>TECHNOLOGICAL SUPPORT&nbsp;</h4>
 		                        </div>
 		                        <p>
-		                            
+
 		We will provide the technical skills that you are missing in your team, our network of motivated designers, developers and engineers are willing to help and partner with you.
-		
+
 		                        </p>
 		                    </div>
-		                    
+
 		                </div>
 		                <div class="col-sm-3">
 		                    <div class="feature feature-1 boxed">
@@ -83,15 +98,17 @@
 		                        </div>
 		                        <p>
 		                            We provide an environments with our partner social impact lab, &nbsp;to be creative and share ideas. we promote the creation of synergies among all the entrepreneurs at our spaces.&nbsp;
-		
+
 		                        </p>
 		                    </div>
-		                    
+
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
+          <center>  <a class="btn-filled btn" href="#apply">Explore Foundry</a> </center>
+
 		    </section><section>
 		        <div class="container">
 		            <div class="row">
@@ -100,13 +117,13 @@
 		                    <p class="lead">
 		                        Applications for Kiron ventures can fall under 2 categories, 1) a group of entrepreneurs with an well thought idea that what’s to take it to he next level and get to know if it has market potential (pre-seed). 2) Or a group of entrepreneurs with an idea that has been validated and has some initial customer traction (seed). <br><br>
 		We expect all the teams to have projects that fulfill the following criteria:
-		
+
 		                    </p>
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section><section>
 		        <div class="container">
 		            <div class="row">
@@ -121,7 +138,7 @@
 		                                Your product or service can be a webapp, a mobile app or a physical, but it must be innovative and scalable.&nbsp;</p>
 		                        </div>
 		                    </div>
-		                    
+
 		                </div>
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="feature feature-3 mb-xs-24 mb64">
@@ -134,7 +151,7 @@
 		                                Kiron ventures targets at startups whose project is related to a social problem. for the moment, we focus on projects to for the refugee crisis.</p>
 		                        </div>
 		                    </div>
-		                    
+
 		                </div>
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="feature feature-3 mb-xs-24 mb64">
@@ -147,9 +164,9 @@
 		                                We only take teams of minimum 2 or 3 founders with complementary backgrounds. If you are alone, you'd better find yourself a co-founder.</p>
 		                        </div>
 		                    </div>
-		                    
+
 		                </div>
-		                
+
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="feature feature-3 mb-xs-24">
 		                        <div class="left">
@@ -162,7 +179,7 @@
 		                            </p>
 		                        </div>
 		                    </div>
-		                    
+
 		                </div>
 		                <div class="col-md-4 col-sm-6">
 		                    <div class="feature feature-3 mb-xs-24 mb64">
@@ -171,11 +188,11 @@
 		                        </div>
 		                        <div class="right">
 		                            <h5 class="uppercase mb16">work with us</h5>
-		                            <p> 
+		                            <p>
 		                                We place a great deal of importance on the team, on its solidity and on its ability to be coached and to take feedback.&nbsp;</p>
 		                        </div>
 		                    </div>
-		                    
+
 		                </div><div class="col-md-4 col-sm-6">
 		                    <div class="feature feature-3 mb-xs-24">
 		                        <div class="left">
@@ -186,26 +203,26 @@
 		                            <p>You should have already started to work on your idea. There must be a prototype or some market research somewhere. (specially for seed)<br></p>
 		                        </div>
 		                    </div>
-		                    
+
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section><section class="page-title page-title-3 bg-secondary">
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
-		                    <h3 class="uppercase mb0">Application Form</h3>
+		                    <h3 class="uppercase mb0" id = "apply">Application Form</h3>
 		                </div>
 		            </div>
-		            
+
 		        </div>
 
 		        <!-- added by hand by adam. link to google form-->
 
 
-		        
+
 		    </section>
 		    <section class="cover fullscreen image-slider slider-arrow-controls controls-inside parallax">
                 <div class="container-clearfix">
@@ -231,4 +248,3 @@
                 </script>
     </body>
 </html>
-				
