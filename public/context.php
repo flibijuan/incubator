@@ -209,6 +209,7 @@
 		                    
 		                </div>
 
+						<a name="partners"></a>
 						<?php include_once($docpath . "/php/partnerlogos.php"); ?>
 
 

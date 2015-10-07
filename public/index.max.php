@@ -50,7 +50,8 @@
 		                            <h1 class="mb40 mb-xs-16 large">Innovation to create social impact</h1>
 		                            <h6 class="uppercase mb16">Berlin based start-up incubator program, funding driven and innovative entrepreneurs that want to create social impact&nbsp;</h6>
 		                            <p class="lead mb40">Do you have ideas to help tackle the migration crisis?</p>
-		                            <a class="btn btn-lg" href="#">Pitch us</a>
+		                            <a class="btn btn-lg" href="/apply">Pitch us your Idea</a>
+		                            <a class="btn btn-lg" href="/investors">For Investors</a>
 		                        </div>
 		                    </div>
 		                    
@@ -63,10 +64,13 @@
 		                <div class="container v-align-transform">
 		                    <div class="row">
 		                        <div class="col-sm-8 col-md-11">
-		                            <h1 class="mb40 mb-xs-16 large">6.5 million refugees worldwide.&nbsp;<br>Let's give them a future.</h1>
-		                            <h6 class="uppercase mb16">Ventures to support refugees </h6>
-		                            <p class="lead mb40">Apply today for financial support, office space, technical support, professional advice and access to a broad network</p>
-		                            <a class="btn btn-lg" href="#">Pitch us</a>
+		                            <h1 class="mb40 mb-xs-16 large">60 million refugees worldwide.</h1>
+		                            <h1 class="mb40 mb-xs-16 large">Let's give them a future.</h1>
+                                    <h6 class="uppercase mb16">Ventures to support refugees </h6>
+		                            <p class="lead mb40">You bring your idea, expertise, and energy. </p>
+		                            <p class="lead mb40" style="margin-top:-40px"> We offer financial support, office space, technical support, advice and access to a broad network of professionals.</p>
+		                            <a class="btn btn-lg" href="/apply">Pitch us your Idea</a>
+		                            <a class="btn btn-lg" href="/investors">For Investors</a>
 		                        </div>
 		                    </div>
 		                    
@@ -117,7 +121,7 @@
 		                    <div class="feature">
 		                        <div class="text-center">
 		                            <i class="mb40 mb-xs-24 inline-block color-primary et-line-linegraph icon-lg"></i>
-		                            <h5 class="uppercase">KICK START<br>3 MONTHS PROGRAM&nbsp;</h5>
+		                            <h5 class="uppercase">KICK START<br>3 MONTH PROGRAM&nbsp;</h5>
 		                        </div>
 		                        <p>In partnership with Social Impact Lab, the entrepreneurs will benefit from our advice, network, technologies and office spaces.</p>
 		                    </div>
@@ -156,10 +160,10 @@
 		        </div>
 		        <div class="container">
 		            <div class="row">
-		                <div class="col-sm-12 text-center">
-		                    <h2 class="uppercase mb8">The start-up boat</h2>
-		                    <p class="lead mb40">Selected entrepreneurs will have the opportunity to participate on the start-up boat.<br>An event&nbsp;
-		designed for the integration of corporates, investors and start-ups to help to tackle social problems through the design thinking methodology.</p>
+		                <div class="col-sm-8 text-center col-sm-offset-2">
+		                    <h2 class="uppercase mb8">The startup boat</h2>
+		                    <p class="lead mb40">Selected entrepreneurs will have the opportunity to participate in the startup boat. </p>
+		                    <p class="lead mb40" style="margin-top:-30px">This is an event designed for the integration of corporates, investors and start-ups to help to tackle social problems through the design thinking methodology.</p>
 		                    <a class="btn btn-lg btn-white mb0" href="http://startupboat.eu/" target="_blank">learn more</a>
 		                </div>
 		            </div>
@@ -173,7 +177,7 @@
 		            <div class="row">
 		                <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
 		                    <h2>Our partners</h2>
-		                    <p class="mb40 mb-xs-24">with our partners we want to give the environment and network to create impact</p>
+		                    <p class="mb40">Together with our partners we want to give the environment and network to create impact</p>
 		                    
 		                </div>
 		             </div>
@@ -186,8 +190,9 @@
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
 		                    <h2 class="mb8">Where to find us</h2>
-		                    <p class="lead mb40 mb-xs-24">If you want to get in contact with us, get to know about our investment system<br> or have questions about the application process send us an email at<br><br> contact@kironventures.com</p>
-		                    
+		                    <p class="lead mb40 mb-xs-24">If you want to get in contact with us, get to know about our investment system<br>
+		                    or have questions about the application process send us an email at
+		                    at <a href="mailto:contact@kironventures.com">contact@kironventures.com</a></p>
 		                </div>
 		            </div>
 		            

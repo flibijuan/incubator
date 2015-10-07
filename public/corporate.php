@@ -24,7 +24,7 @@
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
-		                    <h3 class="uppercase">CORPORATES CAN HAVE SIGNIFICANT IMPACT       BY CREATING A DIVERSE                        ECOSYSTEM</h3>
+		                    <h3 class="uppercase">corporations CAN HAVE SIGNIFICANT IMPACT       BY CREATING A DIVERSE                        ECOSYSTEM</h3>
 		                </div>
 		            </div>
 
@@ -36,13 +36,13 @@
 		                </div>
 		            <div class="col-sm-5 col-sm-offset-1 text-center">
 		                    <div class="feature boxed">
-		                        <h1 class="large">100.000€</h1>
+		                        <h1 class="large">100,000&euro;</h1>
 		                        <h5 class="uppercase">TO HELP OUR FIRST BADGE OF SOCIAL VENTURES GROW BOTH IN VISION AND OPERATIONS</h5>
 		                    </div>
 		                </div><div class="col-sm-5 text-center">
 		                    <div class="feature boxed">
 		                        <h1 class="large">Skill<br></h1>
-		                        <h5 class="uppercase">SUPPORT the KNOW HOW IN MOBILITY, CONSTRUCTION, EDTECH, MHEALTH<br><br></h5>
+		                        <h5 class="uppercase">SUPPORT the KNOW HOW IN MOBILITY, CONSTRUCTION, EDTECH, mobile HEALTH<br><br></h5>
 		                    </div>
 		                </div></div>
 
@@ -62,7 +62,15 @@
 		                                </div>
 		                                <div class="tab-content">
 		                                    <p>
-		                                        We ask for a written commitment of 100,000 € in corporate support for a venture. (This means that the corporate has to give an initial small investment "15,000 to 25,000" and be ready to help in the scaling up process up to a minimum of 100,000 if the startups shows a good progress)<br> Together with you, the founding team defines specific industry related milestones that are to be achieved. We make sure that you are stay updated and will only use the amount necessary to grow a venture. The&nbsp;financial support you provide will not be burned, but used in a sustainable and impact focussed manner.<br><br>
+		                                        We ask for a written commitment of 100,000&euro; in corporate support for a venture.
+		                                        This means that the corporation gives a small initial investment of "15,000 to 25,000"
+		                                        and be ready to help in the scaling up process up to a minimum of 100,000&euro; if the startups
+		                                        shows a good progress.</p>
+
+		                                    <p> Together with you, the founding team defines specific industry related
+		                                        milestones that are to be achieved. We make sure that you are stay updated and will only use the amount
+		                                        necessary to grow a venture. The financial support you provide will not be burned, but used in a
+		                                        sustainable and impact focussed manner.<br><br>
 		                                    </p>
 		                                </div>
 		                            </li>
@@ -71,7 +79,7 @@
 		                                    <span>Vision</span>
 		                                </div>
 		                                <div class="tab-content">
-		                                    <p>We get to know your organisation and offer to consult in building a vision strategy together with the team of the startup you support, so that you can grow together and build a strong fundament for long term synergies in your doings.<br></p>
+		                                    <p>We get to know your organisation and offer to consult in building a vision strategy together with the team of the startup you support, so that you can grow together and build a strong basis for long term synergy.</p>
 		                                </div>
 		                            </li>
 		                            <li>
@@ -79,7 +87,7 @@
 		                                    <span>NEtwork</span>
 		                                </div>
 		                                <div class="tab-content">
-		                                    <p>Your company will act as promoter of an international, impactful entrepreneurial ecosystem of founders, alumni, mentors and partners. Together we help accelerate the pace of innovation by strengthening the path for entrepreneurs, providing support for entrepreneurial communities in Migration Hubs worldwide.<br>
+		                                    <p>Your company will act as a promoter of an international, impactful entrepreneurial ecosystem of founders, alumni, mentors, and partners. Together we help accelerate the pace of innovation by strengthening the path for entrepreneurs, providing support for entrepreneurial communities in Migration Hubs worldwide.<br>
 		                                    </p>
 		                                </div>
 		                            </li>

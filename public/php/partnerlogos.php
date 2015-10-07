@@ -2,9 +2,6 @@
 <img class="img-responsive" alt="Pic" src="img/180.png">
 </div>
 <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-<img class="img-responsive" alt="Pic" src="img/ankomer2.png">
-</div>
-<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
 <img class="img-responsive" alt="Pic" src="img/make.png">
 </div>
 <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
