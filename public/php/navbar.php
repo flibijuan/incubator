@@ -6,16 +6,16 @@
 </div>
 <div class="col-sm-12 col-md-5 col-md-pull-2 overflow-hidden-xs">
 <ul class="menu inline-block pull-right">
-<li><a href="/investors.min.php">investors&nbsp;</a></li>
-<li><a href="/corporate.php">corporate&nbsp;</a></li>
-<li><a href="/apply.min.php">Apply&nbsp;</a></li>
+<li><a href="/investors">investors&nbsp;</a></li>
+<li><a href="/corporate">corporate&nbsp;</a></li>
+<li><a href="/apply">Apply&nbsp;</a></li>
 </ul>
 </div>
 <div class="col-sm-12 col-md-5 pb-xs-24">
 <ul class="menu">
-<li><a href="/about.min.php">About&nbsp;</a></li>
-<li><a href="/volunteers.min.php">Volunteers&nbsp;</a></li>
-<li><a href="/context.min.php">Context&nbsp;</a></li>
+<li><a href="/about">About&nbsp;</a></li>
+<li><a href="/volunteers">Volunteers&nbsp;</a></li>
+<li><a href="/context">Context&nbsp;</a></li>
 </ul>
 </div>
 </div>
