@@ -100,44 +100,103 @@
 		            
 		        </div>
 		        
-		    </section><section class="bg-secondary">
-		        <div class="container">
-		            <div class="row mb64 mb-xs-24">
-		                <div class="col-sm-12 text-center spread-children-large">
-		                    <img alt="Pic" src="img/sven.png">
-		                    <img alt="Pic" src="img/mons.png">
-		                    <img alt="Pic" src="img/koen.png">
-		                    <img alt="Pic" src="img/elizabeth.png">
-		                    <img alt="Pic" src="img/pocket.png">
-		                </div>
-		            </div>
-		            
-		            
-		            
-		        </div><div class="container">
-		            <div class="row mb64 mb-xs-24">
-		                <div class="col-sm-12 text-center spread-children-large">
-		                    <img alt="Pic" src="img/adam.png">
-		                    <img alt="Pic" src="img/lukas.png">
-		                    <img alt="Pic" src="img/ryan.png">
-		                    <img alt="Pic" src="img/you.png">
-		                    <img alt="Pic" src="img/sven.png">
-		                </div>
-		            </div>
+		    </section>
+
+		    <section>
+
+		    <div class="container">
+            	<div class="row">
+
+
+						<!-- people associated with kironventures. to add new person,
+							  change img, h5 and span
+
+						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+						<img alt="Pic" src="img/IMAGENAME.png"> <div class="title mb16">
+                        <h5 class="uppercase mb0">PERSON NAME </h5>
+                        <span>PERSON TITLE</span>
+            		   </div> </div> </div>
+
+ 						-->
+
+            		   <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+            		   <img class="img-responsive" alt="Pic" src="img/sven.png"> <div class="title mb16">
+            		   <h5 class="uppercase mb0">Sven Fund</h5>
+            		   <span>Managing Director, Fullstopp</span>
+            		   </div> </div> </div>
+
+						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+						<img class="img-responsive" alt="Pic" src="img/mons.png"> <div class="title mb16">
+                        <h5 class="uppercase mb0">PERSON NAME </h5>
+                        <span>PERSON TITLE</span>
+            		   </div> </div> </div>
+
+						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+						<img class="img-responsive" alt="Pic" src="img/koen.png"> <div class="title mb16">
+                        <h5 class="uppercase mb0">PERSON NAME </h5>
+                        <span>PERSON TITLE</span>
+            		   </div> </div> </div>
+
+						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+						<img class="img-responsive" alt="Pic" src="img/elizabeth.png"> <div class="title mb16">
+                        <h5 class="uppercase mb0">PERSON NAME </h5>
+                        <span>PERSON TITLE</span>
+            		   </div> </div> </div>
+
+						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+						<img class="img-responsive" alt="Pic" src="img/pocket.png"> <div class="title mb16">
+                        <h5 class="uppercase mb0">PERSON NAME </h5>
+                        <span>PERSON TITLE</span>
+            		   </div> </div> </div>
+
+						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+						<img class="img-responsive" alt="Pic" src="img/adam.png"> <div class="title mb16">
+                        <h5 class="uppercase mb0">PERSON NAME </h5>
+                        <span>PERSON TITLE</span>
+            		   </div> </div> </div>
+
+						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+						<img class="img-responsive" alt="Pic" src="img/lukas.png"> <div class="title mb16">
+                        <h5 class="uppercase mb0">PERSON NAME </h5>
+                        <span>PERSON TITLE</span>
+            		   </div> </div> </div>
+
+						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+						<img class="img-responsive" alt="Pic" src="img/ryan.png"> <div class="title mb16">
+                        <h5 class="uppercase mb0">PERSON NAME </h5>
+                        <span>PERSON TITLE</span>
+            		   </div> </div> </div>
+
+						<div class="col-xs-6 col-s	m-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+						<img class="img-responsive" alt="Pic" src="img/you.png"> <div class="title mb16">
+                        <h5 class="uppercase mb0">PERSON NAME </h5>
+                        <span>PERSON TITLE</span>
+            		   </div> </div> </div>
+
+
+            	</div>
+      		</section>
+
+
+
+
+
+
 		            
 		            <div class="row">
 		                <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
 		                    <h2>Our partners </h2>
 		                    <p class="mb40 mb-xs-24">
 		                        with our partners we want to create the environment and network to create impact
-		</p>
-		                    
+							</p>
 		                </div>
 		            </div>
 		            
-		        </div>
+		    </div>
 		        
-		    </section><section class="bg-secondary">
+		    </section>
+
+		    <section class="bg-secondary">
 		        <div class="container">
 		            
 		            
@@ -149,22 +208,10 @@
 		                    </p>
 		                    
 		                </div>
-		            <div class="col-sm-12 text-center spread-children-large">
-		                    <img alt="Pic" src="img/180.png">
-		                    <img alt="Pic" src="img/ankomer.png">
-		                    <img alt="Pic" src="img/make.png">
-		                    <img alt="Pic" src="img/UNCHR.png">
-		                    <img alt="Pic" src="img/HPI.png">
-		                </div></div><div class="row">
-		                
-		            <div class="col-sm-12 text-center spread-children-large">
-		                    <img alt="Pic" src="img/SIL.png">
-		                    <img alt="Pic" src="img/RWTH.png">
-		                    <img alt="Pic" src="img/SB.png">
-		                    <img alt="Pic" src="img/MH.png">
-		                    <img alt="Pic" src="img/SAP.png">
-		                </div></div>
-		            
+
+						<?php include_once($docpath . "/php/partnerlogos.php"); ?>
+
+
 		        </div>
 		        
 		    </section><section class="bg-secondary">
