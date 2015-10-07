@@ -7,7 +7,7 @@
 <div class="col-sm-12 col-md-5 col-md-pull-2 overflow-hidden-xs">
 <ul class="menu inline-block pull-right">
 <li><a href="/investors.min.php">investors&nbsp;</a></li>
-<li><a href="#">corporate&nbsp;</a></li>
+<li><a href="/corporate.php">corporate&nbsp;</a></li>
 <li><a href="/apply.min.php">Apply&nbsp;</a></li>
 </ul>
 </div>
