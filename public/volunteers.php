@@ -8,7 +8,7 @@
   		<?php include_once($docpath . "/php/head.php"); ?>
 
   		<?php include_once("php/googleanalytics.php") ?>
-          <link href="css/pe-icon-7-stroke.css" rel="stylesheet" type="text/css" media="all">
+
     </head>
     <body class="btn-rounded">
 		<div class="nav-container">
@@ -51,7 +51,7 @@
         		                    </p>
         		                </div>
         		                <div class="col-md-5 col-sm-6 mb40 mb-xs-24">
-        		                    <i class="icon inline-block mb16 fade-3-4 pe-7s-vector"></i>
+        		                    <i class="icon inline-block mb16 fade-3-4 et-line-circle-compass"></i>
         		                    <h4>design</h4>
         		                    <p>
         		                        To create impact is fundamental to express empowering ideas in a easy and efficient way , that’s why we are looking for motivated designers to help projects stand out of the crowd
