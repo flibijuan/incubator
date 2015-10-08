@@ -36,7 +36,7 @@
         		        <div class="container">
         		            <div class="row mb64 mb-xs-24">
         		                <div class="col-md-10 col-md-offset-1 col-sm-12 text-center">
-        		                    <h3>This are the expertice we are looking for, join our network join.us@kironventures.com<br></h3>
+        		                    <h3>This are the expertice we are looking for, join our network  <a href="mailto:join.us@kironventures.com">join.us@kironventures.com</a></h3>
         		                </div>
         		            </div>
 

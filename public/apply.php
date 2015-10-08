@@ -191,26 +191,18 @@
 
 		        </div>
 
-		    </section><section class="page-title page-title-3 bg-secondary">
-		        <div class="container">
-		            <div class="row">
-		                <div class="col-sm-12 text-center">
-		                    <h3 class="uppercase mb0" id = "apply">Application Form</h3>
-		                </div>
-		            </div>
-
-		        </div>
-
-		        <!-- added by hand by adam. link to google form-->
-
-
-
 		    </section>
-		    <section class="cover fullscreen image-slider slider-arrow-controls controls-inside parallax">
+
+
+		    <section class="cover fullscreen bg-secondary">
                 <div class="container-clearfix">
                     <div class="row">
                         <div class="col-sm-12 text-center">
-		  				 	 <?php include_once($docpath . "/php/form.php"); ?>
+                        <div style="position:relative ; padding-bottom: 87.5% ; height:0 ; overflow: hidden; margin-bottom: -20%">
+        		         <h3 class="uppercase mb0" id = "apply" style="margin-top:50px;color:#8dd0a9">Application Form</h3>
+						<iframe style = "position: absolute ; top:120px; left:0 ; width:100% ; height: 100%" src="https://docs.google.com/forms/d/1arcsWQ5rAtJ9ECCo8hU-g116vwDDkT5kqaDP2LvaH7A/viewform?embedded=true" frameborder="0"></iframe>
+                        </div>
+
   						</div>
         			</div>
 				</div>
