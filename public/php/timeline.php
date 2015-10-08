@@ -12,14 +12,23 @@
 			<div class="timeline-item">
 				<div class="timeline-content right">
 				<h2>2. Benefit from Kiron Ventures</h2>
-	            <p class="timeline">Get financial support, office space, technical support, professional advice
-	             and access to a broad network of professionals from Kiron, MigrationHub, Social Impact Lab and StartUp Boat
-	              during a period of three months.</p>
-	             <a class="btn-filled btn" href="/about" target="_blank">Learn More</a>
 
+        <div class="row">
+            <div class="text-center col-xs-12 col-sm-6 col-m-12 col-lg-6">
+              <p class="timeline">Get financial support, office space, technical support, professional advice
+	             and access to a broad network of professionals from Kiron, MigrationHub, Social Impact, 180 degrees, MakeSense StartUp Boat among others.
+	              </p>
+
+             </div>
+             <div class="text-center col-xs-12 col-sm-6 col-m-12 col-lg-6">
+               <img src="img/SI.png" width="60%" height="60%">
+                <a class="btn-filled btn" href="/about" target="_blank">Learn More</a>
+             </div>
 				</div>
 			</div>
+    </div>
 
+<div class="row">
 			<div class="timeline-item">
 				<div class="timeline-content">
 				<h2>3. Startup Boat</h2>
@@ -29,11 +38,11 @@
 				<img src="img/SB.png" width="30%" height="30%">
 				</div>
 			</div>
-
+    </div>
 
             <div class="timeline-item">
                 <div class="timeline-content right">
-                    <h2>4. Mentor and Investor</h2>
+                    <h2>4. Corporates and Investor</h2>
                     <p class="timeline">At the end of the program if your idea proves to have a market fit, sustainability and more importantly a social impact,
                      an investor will support you with a small capital investment and a senior startup professional will be appointed as your mentor.</p>
 					<a class="btn-filled btn" href="/context" target="_blank">Learn More</a>

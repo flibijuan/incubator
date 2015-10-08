@@ -76,8 +76,7 @@
 		                            <h4>CO-WORKING SPACE&nbsp;</h4>
 		                        </div>
 		                        <p>
-		                            An environments with our partner social impact lab, Ankommer, &nbsp;to be creative and share ideas. we promote the creation of synergies among all the entrepreneurs.&nbsp;
-
+		                            An environments with our partner social impact, to be creative and share ideas. we promote the creation of synergies among all the entrepreneurs.&nbsp;
 		                        </p>
 		                    </div>
 
@@ -106,7 +105,7 @@
 
 		        </div>
 
-		    
+
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-md-4 col-sm-6">
@@ -207,6 +206,27 @@
         			</div>
 				</div>
 			</section>
+
+      <section>
+          <div class="container">
+              <div class="row">
+                  <div class="col-sm-10 col-sm-offset-1 text-center">
+                      <h3 class="uppercase color-primary mb40 mb-xs-24" id = "criteria">Also have a look at Ankommer, accepting responsibility, shaping diversity
+</h3>
+                      <p class="lead">
+                          KfW Stiftung is a foundation that engages directly with the major challenges facing our world – globalisation, environmental protection, climate and demographic change. KfW Stiftung supports initiatives questioning established patterns, identify alternative strategies and offer platforms for cross-border exchange. The aim is to encourage pioneering ideas, to create a diverse economy, environment, society and culture and to take responsibility for the world we live in.
+                      </p>
+                  </div>
+              </div>
+              <div class="row">
+                  <div class="col-lg-2 col-lg-offset-5 col-md-2 col-md-offset-5 col-sm-4 col-sm-offset-4 col-xs-8 col-xs-offset-2">
+                  <center <img class="img-responsive" alt="Pic" width="100%" src="img/SI.png">
+                  <a class="btn-filled btn" href="http://ankommer.eu/EN/project/project-partner">Learn more / deadline 11 october</a> </center>
+                 </div>
+            </div>
+
+        </div>
+      </section>
 
 		<?php include_once($docpath . "/php/footer.php") ?>
 

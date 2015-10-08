@@ -12,32 +12,32 @@
 
     </head>
     <body class="btn-rounded">
-				
+
 		<div class="nav-container">
 			<nav>
 				<?php include_once("php/navbar.php") ?>
 		    </nav>
 		</div>
-		
+
 		<div class="main-container">
-					
-			
-					
-			
-					
-			
-					
-			
-					
-			
-					
-			
-					
-			
-					
-			
-					
-			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		<section class="cover fullscreen image-slider slider-all-controls controls-inside parallax">
 		        <ul class="slides">
 		            <li class="overlay image-bg">
@@ -54,9 +54,9 @@
 		                            <a class="btn btn-lg" href="/investors">For Investors</a>
 		                        </div>
 		                    </div>
-		                    
+
 		                </div>
-		                
+
 		            </li><li class="overlay image-bg">
 		                <div class="background-image-holder">
 		                    <img alt="image" class="background-image" src="img/cover8.jpg" width="1280" height="853">
@@ -73,9 +73,9 @@
 		                            <a class="btn btn-lg" href="/investors">For Investors</a>
 		                        </div>
 		                    </div>
-		                    
+
 		                </div>
-		                
+
 		            </li>
 		        </ul>
 		    </section><section>
@@ -85,7 +85,7 @@
 		                    <h3>Applications are open!<br>Several new social impact projects will be launched soon</h3>
 		                </div>
 		            </div>
-		            
+
 		            <div class="row">
 		                <div class="text-center col-sm-3">
 		                    <div class="feature">
@@ -95,7 +95,7 @@
 		                        </div>
 		                        <p>Apply now to be part of the Kiron Ventures Impact Program with a refugee focus (we are looking for seed and pre-seed stage ideas).&nbsp;<br></p>
 		                    </div>
-		                    
+
 		                </div>
 		                <div class="text-center col-sm-3">
 		                    <div class="feature">
@@ -106,7 +106,7 @@
 		                        <p>A selected group of startups will pitch to us and have personal feed back on their idea.
 		                        </p>
 		                    </div>
-		                    
+
 		                </div><div class="text-center col-sm-3">
 		                    <div class="feature">
 		                        <div class="text-center">
@@ -116,21 +116,21 @@
 		                        <p>At the end of every month, after having assessed the projects' viability, sustainability and social impact, Kiron will announce the selected startups.
 		</p>
 		                    </div>
-		                    
+
 		                </div><div class="text-center col-sm-3">
 		                    <div class="feature">
 		                        <div class="text-center">
 		                            <i class="mb40 mb-xs-24 inline-block color-primary et-line-linegraph icon-lg"></i>
 		                            <h5 class="uppercase">KICK START<br>3 MONTH PROGRAM&nbsp;</h5>
 		                        </div>
-		                        <p>In partnership with Social Impact Lab, the entrepreneurs will benefit from our advice, network, technologies and office spaces.</p>
+		                        <p>The entrepreneurs will benefit from our advice, network, technologies and office spaces, provided together with our partners and mentors like Social Impact, .</p>
 		                    </div>
-		                    
+
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section><section class="page-title page-title-2 image-bg overlay parallax">
 		        <div class="background-image-holder">
 		            <img alt="Background Image" class="background-image" src="img/cover15.jpg" width="1440" height="960">
@@ -141,19 +141,19 @@
 		                    <h2 class="uppercase mb8">Migrationhub</h2>
 		                    <p class="lead mb0"><span>Migration hub is an open physical space for ideas and partnerships to blossom.&nbsp;<br></span>You can share ideas, learn about other entrepreneurs' solutions and maybe meet cofounders for your next impact project.<br><br><b>Address: Berlin (Potsdamer Strasse 144, 10783 Berlin).</b><br><br>The opening hours are extensive, but naturally not unlimited. Come take a look until December 2015!</p>
 		                </div>
-		                
+
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section><section>
 		        <div class="container">
 		            <div class="row">
 		               	<?php include_once("php/timeline.php"); ?>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section><section class="image-bg bg-dark parallax overlay pt120 pb120">
 		        <div class="background-image-holder">
 		            <img alt="Background Image" class="background-image" src="img/boat.jpg" width="1280" height="800">
@@ -167,24 +167,24 @@
 		                    <a class="btn btn-lg btn-white mb0" href="http://startupboat.eu/" target="_blank">learn more</a>
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section><section class="bg-secondary">
 		        <div class="container">
-		            
-		            
+
+
 		            <div class="row">
 		                <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
 		                    <h2>Our partners</h2>
 		                    <p class="mb40">Together with our partners we want to give the environment and network to create impact</p>
-		                    
+
 		                </div>
 		             </div>
 
 		      		<?php include_once($docpath . "/php/partnerlogos.php"); ?>
 
-		        
+
 		    </section><section class="bg-dark pt64 pb64">
 		        <div class="container">
 		            <div class="row">
@@ -195,16 +195,16 @@
 		                    at <a href="mailto:contact@kironventures.com">contact@kironventures.com</a></p>
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section>
 
 
 		<?php include_once($docpath . "/php/footer.php") ?>
 
 		</div>
-		
+
 		<!-- Include head.js -->
         <script src="/js/head.load.min.js"></script>
         <!-- load all js asynchronously but in order -->
@@ -219,4 +219,3 @@
 
     </body>
 </html>
-				

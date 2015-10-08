@@ -12,7 +12,7 @@
 				<div class="timeline-content right">
 				<h2>2. Get Introduced</h2>
 	            <p class="timeline">Get introduced to startups, projects and get invited to all Kiron Ventures
-	            events from Kiron, MigrationHub, Social Impact Lab and StartUp Boat</p>
+	            events from Kiron, MigrationHub and StartUp Boat</p>
 	            <a class="btn-filled btn" href="/context.php#partners" target="_blank">Learn More About Our Partners</a>
 				</div>
 			</div>
