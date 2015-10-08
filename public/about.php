@@ -225,7 +225,7 @@
 		                            <h5 class="uppercase mb0">Vincent zimmer</h5>
 		                            <span>Business Development &amp; social impact</span>
 		                        </div>
-		                        <p class="mb0">    
+		                        <p class="mb0">
                                 is a serial entrepreneur currently leading the business development at Kiron university. has founded companies from Shanghai to Sao Paulo across diverse sectors such as healthcare and higher education.
                             </p>
 		                    </div>
@@ -238,8 +238,9 @@
 		                            <span>Communications &amp; startUps</span>
 		                        </div>
 		                        <p class="mb0">
-		                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.
-		                        </p>
+                                Co-founder of Exponential Network. This makes her an expert in refugee-ventures, which helped her set up Migration hub. An organization which establishes national and international links between initiatives, initiators and volunteers to help support refugees.
+
+                                  </p>
 		                    </div>
 		                </div>
 		                <div class="col-sm-6 col-md-3">
