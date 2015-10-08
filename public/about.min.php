@@ -170,7 +170,7 @@ Kiron ventures stablished A system with all the tools that an entrepreneur would
 <span>Business Development &amp; social impact</span>
 </div>
 <p class=mb0>
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.
+is a serial entrepreneur currently leading the business development at Kiron university. has founded companies from Shanghai to Sao Paulo across diverse sectors such as healthcare and higher education.
 </p>
 </div>
 </div>
@@ -182,7 +182,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <span>Communications &amp; startUps</span>
 </div>
 <p class=mb0>
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.
+Co-founder of Exponential Network. This makes her an expert in refugee-ventures, which helped her set up Migration hub. An organization which establishes national and international links between initiatives, initiators and volunteers to help support refugees.
 </p>
 </div>
 </div>
@@ -204,7 +204,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <span>Network management &amp; StartUpBoat</span>
 </div>
 <p class=mb0>
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.
+Cofounded the Exponential Networks. It is also because of these experiences that she launched startup boat, an event in which young tech entrepreneurs and investors have grouped together to address the refugee crisis.
 </p>
 </div>
 </div>

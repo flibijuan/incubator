@@ -91,7 +91,7 @@
 <i class="mb40 mb-xs-24 inline-block color-primary et-line-linegraph icon-lg"></i>
 <h5 class=uppercase>KICK START<br>3 MONTH PROGRAM&nbsp;</h5>
 </div>
-<p>In partnership with Social Impact Lab, the entrepreneurs will benefit from our advice, network, technologies and office spaces.</p>
+<p>The entrepreneurs will benefit from our advice, network, technologies and office spaces, provided together with our partners and mentors like Social Impact, .</p>
 </div>
 </div>
 </div>

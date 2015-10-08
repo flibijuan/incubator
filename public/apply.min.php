@@ -6,7 +6,7 @@
 <?php include_once($docpath . "/php/head.php"); ?>
 <?php include_once("php/googleanalytics.php") ?>
 </head>
-<body>
+<body class=btn-rounded>
 <div class=nav-container>
 <nav>
 <?php include_once("php/navbar.php") ?>
@@ -14,6 +14,13 @@
 </div>
 <div class=main-container>
 <section>
+<div class=container>
+<div class=row>
+<div class="col-sm-10 col-sm-offset-1 text-center">
+<h3 class="uppercase color-primary mb40 mb-xs-24">What is Kiron ventures program about</h3>
+</div>
+</div>
+</div>
 <div class=container>
 <div class=row>
 <div class=col-sm-3>
@@ -54,17 +61,20 @@ We will provide the technical skills that you are missing in your team, our netw
 <h4>CO-WORKING SPACE&nbsp;</h4>
 </div>
 <p>
-We provide an environments with our partner social impact lab, &nbsp;to be creative and share ideas. we promote the creation of synergies among all the entrepreneurs at our spaces.&nbsp;
+An environments with our partner social impact, to be creative and share ideas. we promote the creation of synergies among all the entrepreneurs.&nbsp;
 </p>
 </div>
 </div>
 </div>
 </div>
+<center> <a class="btn-filled btn" href=#apply>Apply now</a>
+<a class="btn-filled btn" href=#criteria>what we look for</a>
+</center>
 </section><section>
 <div class=container>
 <div class=row>
 <div class="col-sm-10 col-sm-offset-1 text-center">
-<h3 class="uppercase color-primary mb40 mb-xs-24">Kiron ventures aplication</h3>
+<h3 class="uppercase color-primary mb40 mb-xs-24" id=criteria>Kiron ventures aplication</h3>
 <p class=lead>
 Applications for Kiron ventures can fall under 2 categories, 1) a group of entrepreneurs with an well thought idea that what’s to take it to he next level and get to know if it has market potential (pre-seed). 2) Or a group of entrepreneurs with an idea that has been validated and has some initial customer traction (seed). <br><br>
 We expect all the teams to have projects that fulfill the following criteria:
@@ -72,7 +82,6 @@ We expect all the teams to have projects that fulfill the following criteria:
 </div>
 </div>
 </div>
-</section><section>
 <div class=container>
 <div class=row>
 <div class="col-md-4 col-sm-6">
@@ -148,27 +157,44 @@ We place a great deal of importance on the team, on its solidity and on its abil
 </div>
 </div>
 </div>
-</section><section class="page-title page-title-3 bg-secondary">
-<div class=container>
+</section>
+<section class="cover fullscreen bg-secondary">
+<div class=container-clearfix>
 <div class=row>
-<div class="col-sm-12 text-center">
-<h3 class="uppercase mb0">Application Form</h3>
+<div class="col-sm-8 col-sm-offset-2 col-lg-8 col-lg-offset-2 col-xs-12 col-lg-8 col-lg-offset-2 text-center">
+<div style=position:relative;padding-bottom:87.5%;height:0;overflow:hidden;margin-bottom:-20%>
+<h3 class="uppercase mb0" id=apply style=margin-top:50px;color:#8dd0a9>Application Form</h3>
+<iframe style=position:absolute;top:120px;left:0;width:100%;height:100% src="https://docs.google.com/forms/d/1arcsWQ5rAtJ9ECCo8hU-g116vwDDkT5kqaDP2LvaH7A/viewform?embedded=true" frameborder=0></iframe>
+</div>
 </div>
 </div>
 </div>
 </section>
-<section class="cover fullscreen image-slider slider-arrow-controls controls-inside parallax">
-<div class=container-clearfix>
+<section>
+<div class=container>
 <div class=row>
-<div class="col-sm-12 text-center">
-<?php include_once($docpath . "/php/form.php"); ?>
+<div class="col-sm-10 col-sm-offset-1 text-center">
+<h3 class="uppercase color-primary mb40 mb-xs-24" id=criteria>Also have a look at Ankommer, accepting responsibility, shaping diversity
+</h3>
+<p class=lead>
+KfW Stiftung is a foundation that engages directly with the major challenges facing our world – globalisation, environmental protection, climate and demographic change. KfW Stiftung supports initiatives questioning established patterns, identify alternative strategies and offer platforms for cross-border exchange. The aim is to encourage pioneering ideas, to create a diverse economy, environment, society and culture and to take responsibility for the world we live in.
+</p>
+</div>
+</div>
+<div class=row>
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 col-lg-offset-1 col-sm-offset-4 col-md-offset-1">
+<a class="btn-filled btn" href=http://ankommer.eu/EN/project/project-partner style=margin-top:35px>Learn more / deadline 11 october</a> </center>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 col-lg-offset-1 col-sm-offset-4 col-md-offset-1">
+<img class=img-responsive width=100% alt=Pic src=img/SI-landscape.png>
+</div>
 </div>
 </div>
 </div>
 </section>
 <?php include_once($docpath . "/php/footer.php") ?>
 </div>
-script src="/js/head.load.min.js"></script>
+<script src=/js/head.load.min.js></script>
 <script>head.load("/js/jquery.min.js","/js/bootstrap.min.js","/js/flexslider.min.js","/js/parallax.js","/js/scripts.min.js");</script>
 </body>
 </html>

@@ -196,7 +196,7 @@
 		    <section class="cover fullscreen bg-secondary">
                 <div class="container-clearfix">
                     <div class="row">
-                        <div class="col-sm-12 text-center">
+                        <div class="col-sm-8 col-sm-offset-2 col-lg-8 col-lg-offset-2 col-xs-12 col-lg-8 col-lg-offset-2 text-center">
                         <div style="position:relative ; padding-bottom: 87.5% ; height:0 ; overflow: hidden; margin-bottom: -20%">
         		         <h3 class="uppercase mb0" id = "apply" style="margin-top:50px;color:#8dd0a9">Application Form</h3>
 						<iframe style = "position: absolute ; top:120px; left:0 ; width:100% ; height: 100%" src="https://docs.google.com/forms/d/1arcsWQ5rAtJ9ECCo8hU-g116vwDDkT5kqaDP2LvaH7A/viewform?embedded=true" frameborder="0"></iframe>
@@ -219,10 +219,14 @@
                   </div>
               </div>
               <div class="row">
-                  <div class="col-lg-2 col-lg-offset-5 col-md-2 col-md-offset-5 col-sm-4 col-sm-offset-4 col-xs-8 col-xs-offset-2">
-                  <center <img class="img-responsive" alt="Pic" width="100%" src="img/SI.png">
-                  <a class="btn-filled btn" href="http://ankommer.eu/EN/project/project-partner">Learn more / deadline 11 october</a> </center>
+                  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 col-lg-offset-1 col-sm-offset-4 col-md-offset-1">
+                  	  <a class="btn-filled btn" href="http://ankommer.eu/EN/project/project-partner" style="margin-top:35px;">Learn more / deadline 11 october</a> </center>
                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 col-lg-offset-1 col-sm-offset-4 col-md-offset-1">
+ 			      	<img class="img-responsive" width="100%" alt="Pic" src="img/SI-landscape.png">
+                 </div>
+                                  </div>
+
             </div>
 
         </div>

@@ -30,9 +30,13 @@
         </div>
 
 
+      <div class="row">
+          <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2 col-xs-10 col-xs-offset-1 ">
 
 <div style="position:relative ; padding-bottom: 120% ; height:0 ; overflow: hidden; margin-bottom: 0%">
 		<iframe  class="noScrolling" scrolling="no" style = "position: absolute ; top:0 ; left:0 ; width:100% ; height: 100%; overflow:hidden" src="http://nikolasander.com/refugees/embed.html " frameborder="0"></iframe>
+</div>
+</div>
 </div>
 
         <center>

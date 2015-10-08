@@ -13,11 +13,28 @@
 </nav>
 </div>
 <div class=main-container>
-<iframe src="http://nikolasander.com/refugees/embed.html " width=700px height=800px frameborder=0></iframe>
-<section>
+<div class=row>
+<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
+<h2 class=uppercase style=margin-top:30px>The global migration crisis </h2>
+<p class="mb40 mb-xs-24">
+The UNHCR estimates that there more than 60 million displaced people in the world. Mostly in conflict zones.
+The graphic below attempts to convey the sacle of the crisis. Click on the regions to visualizy explore the crisis.
+</p>
+</div>
+</div>
+<div class=row>
+<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2 col-xs-10 col-xs-offset-1">
+<div style=position:relative;padding-bottom:120%;height:0;overflow:hidden;margin-bottom:0>
+<iframe class=noScrolling scrolling=no style=position:absolute;top:0;left:0;width:100%;height:100%;overflow:hidden src="http://nikolasander.com/refugees/embed.html " frameborder=0></iframe>
+</div>
+</div>
+</div>
+<center>
 <div class=container>
 <div class="row mb64 mb-xs-24">
-<div class="col-md-10 col-md-offset-1 col-sm-12 text-center">
+<a class="btn-filled btn" href=http://www.unhcr.org/551128679.html target=_blank>Lear more about the crisis</a>
+<a class="btn-filled btn" href=http://www.unhcr.org/556725e69.html target=_blank>Learn more about predictions</a> </center>
+<div class="col-md-10 col-md-offset-1 col-sm-12 text-center" style=margin-bottom:20px>
 <h3>THIS ARE SOME OF THE IDEAS WE LOVE<br> AND USE AS EXAMPLE</h3>
 </div>
 </div>
@@ -68,34 +85,91 @@ We are working here on a Platform which features Crowdfunding Projects from Refu
 </div><div class="col-sm-4 text-center">
 <div class="feature boxed cast-shadow-light">
 <img alt=Pic class="image-small inline-block mb24" src=img/UB.png>
-<h4 src=img/UB.png alt=Pic>"Craft and Designs"</h4>
-<span>which is German and can be loosely translated as cooking outside the box. cooking and bringing together people from all over the world, overcoming barriers.<br><br>
+<h4 src=img/UB.png alt=Pic>"Beyond the Plate's Edge"</h4>
+<span>A German phrase which can be loosely translated as cooking outside the box. Cooking and bringing together people from all over the world, overcoming barriers.<br><br>
 </span>
 </div>
 </div>
 </div>
 </div>
-</section><section class=bg-secondary>
+<section>
+<div class=row>
+<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
+<h2>A growing network of mentors and IT specialist</h2>
+<p class="mb40 mb-xs-24">
+Kiron Ventures mentors are professionals with diverse expertise from the fields of design, IT development, marketing, NGOs and politics.
+They will mentor you as a teacher and support you as a friend. Futhermore, they will also be helping you to execute and connect you to the right people to boost your organization.
+This remarkable team is conformed by wolrd class IT-developers, 180 consulting group specialized in NGOs, Kiron University, experts investors from Tengelmann Ventures and SoGal Ventures.
+</p>
+</div>
 <div class=container>
-<div class="row mb64 mb-xs-24">
-<div class="col-sm-12 text-center spread-children-large">
-<img alt=Pic src=img/sven.png>
-<img alt=Pic src=img/mons.png>
-<img alt=Pic src=img/koen.png>
-<img alt=Pic src=img/elizabeth.png>
-<img alt=Pic src=img/pocket.png>
+<div class=row>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+<img class=img-responsive alt=Pic src=img/sven.png> <div class="title mb16">
+<h5 class="uppercase mb0">Sven Fund</h5>
+<span>Managing Director, Fullstopp</span>
+</div> </div> </div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+<img class=img-responsive alt=Pic src=img/mons.png> <div class="title mb16">
+<h5 class="uppercase mb0">MÅNS GÅRDFELDT </h5>
+<span>COO, The Sandpit</span>
+</div> </div> </div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+<img class=img-responsive alt=Pic src=img/koen.png> <div class="title mb16">
+<h5 class="uppercase mb0">Koen Lenssen </h5>
+<span>Invest manager, Tangelmann Ventures</span>
+</div> </div> </div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+<img class=img-responsive alt=Pic src=img/elizabeth.png> <div class="title mb16">
+<h5 class="uppercase mb0">Elizabeth Galbut </h5>
+<span>Founding Partner, SoGal Ventures and <br>A-Level Capital<br></span>
+</div> </div> </div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+<img class=img-responsive alt=Pic src=img/pocket.png> <div class="title mb16">
+<h5 class="uppercase mb0">Pocket Sun</h5>
+<span>Founder SoGal Ventures</span>
+</div> </div> </div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+<img class=img-responsive alt=Pic src=img/adam.png> <div class="title mb16">
+<h5 class="uppercase mb0">Adam Roe </h5>
+<span>Data scientist and developer, Kiron</span>
+</div> </div> </div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+<img class=img-responsive alt=Pic src=img/lukas.png> <div class="title mb16">
+<h5 class="uppercase mb0">Lukas Zöllner </h5>
+<span>Back-end Developer, Kiron</span>
+</div> </div> </div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+<img class=img-responsive alt=Pic src=img/ryan.png> <div class="title mb16">
+<h5 class="uppercase mb0">Ryan Chung </h5>
+<span>Front-end Developer, Kiron</span>
+</div> </div> </div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+<img class=img-responsive alt=Pic src=img/you.png> <div class="title mb16">
+<h5 class="uppercase mb0">Younes Ouaqasse </h5>
+<span>Political advisor, Kiron</span>
+</div> </div> </div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+<img class=img-responsive alt=Pic src=img/christian.png> <div class="title mb16">
+<h5 class="uppercase mb0">Christian Vanizette </h5>
+<span>Cofunder MakeSense.org</span>
+</div> </div> </div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+<img class=img-responsive alt=Pic src=img/Alexander.png> <div class="title mb16">
+<h5 class="uppercase mb0">Alexander Schwab </h5>
+<span>180Degrees Consulting</span>
+</div> </div> </div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+<img class=img-responsive alt=Pic src=img/michael.png> <div class="title mb16">
+<h5 class="uppercase mb0">Michael De Wachter </h5>
+<span>Product development, Kiron</span>
+</div> </div> </div>
 </div>
+</section>
 </div>
-</div><div class=container>
-<div class="row mb64 mb-xs-24">
-<div class="col-sm-12 text-center spread-children-large">
-<img alt=Pic src=img/adam.png>
-<img alt=Pic src=img/lukas.png>
-<img alt=Pic src=img/ryan.png>
-<img alt=Pic src=img/you.png>
-<img alt=Pic src=img/sven.png>
-</div>
-</div>
+</section>
+<section class=bg-secondary>
+<div class=container>
 <div class=row>
 <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
 <h2>Our partners </h2>
@@ -103,69 +177,16 @@ We are working here on a Platform which features Crowdfunding Projects from Refu
 with our partners we want to create the environment and network to create impact
 </p>
 </div>
+<a name=partners></a>
+<?php include_once($docpath . "/php/partnerlogos.php"); ?>
 </div>
-</div>
-</section><section class=bg-secondary>
-<div class=container>
-<div class=row>
-<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-<h2>Built by professionals, just for you.</h2>
-<p class="mb40 mb-xs-24">
-Foundry is a remarkably complete template offering you a plethora of handcrafted design elements. Whether promoting a product, service or portfolio - Foundry's unique and flexible style has you covered.
-</p>
-</div>
-<div class="col-sm-12 text-center spread-children-large">
-<img alt=Pic src=img/180.png>
-<img alt=Pic src=img/ankomer.png>
-<img alt=Pic src=img/make.png>
-<img alt=Pic src=img/UNCHR.png>
-<img alt=Pic src=img/HPI.png>
-</div></div><div class=row>
-<div class="col-sm-12 text-center spread-children-large">
-<img alt=Pic src=img/SIL.png>
-<img alt=Pic src=img/RWTH.png>
-<img alt=Pic src=img/SB.png>
-<img alt=Pic src=img/MH.png>
-<img alt=Pic src=img/SAP.png>
-</div></div>
-</div>
-</section><section class=bg-secondary>
-<div class=container>
-<div class=row>
-<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-<h2>Our partners</h2>
-<p class="mb40 mb-xs-24">with our partners we want to create the environment and network to create impact</p>
-</div>
-</div>
-</div>
-</section><section class="bg-dark pt64 pb64">
+</section>
+<section class="bg-dark pt64 pb64">
 <div class=container>
 <div class=row>
 <div class="col-sm-12 text-center">
 <h2 class=mb8>Where to find us</h2>
 <p class="lead mb40 mb-xs-24">If you want to get in contact with us, get to know about our investment system<br> or have questions about the application process send us an email at<br><br> contact@kironventures.com</p>
-</div>
-</div>
-</div>
-</section><section class="image-bg parallax overlay">
-<div class=background-image-holder>
-<img alt=image class=background-image src=img/home-2-1.jpg>
-</div>
-<div class=container>
-<div class="row mb40 mb-xs-24">
-<div class="col-sm-12 text-center">
-<h3 class=mb8>Subscribe for a monthly roundup of best Kiron ventures start-ups.</h3>
-<p>Don't worry, we hate spam too - that's why we only send out monthly emails.</p>
-</div>
-</div>
-<div class="row mb80 mb-xs-24">
-<div class="col-sm-6 col-sm-offset-3">
-<form class="form-newsletter halves" data-success="Thanks for your registration, we will be in touch shortly." data-error="Please fill all fields correctly.">
-<input type=text name=email class="mb0 transparent validate-email validate-required signup-email-field" placeholder="Email Address">
-<input type=submit class=mb0 value=Subscribe>
-<iframe srcdoc="<!-- Begin MailChimp Signup Form --><link href=&quot;https://cdn-images.mailchimp.com/embedcode/classic-081711.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;><style type=&quot;text/css&quot;>    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */</style><div id=&quot;mc_embed_signup&quot;><form action=&quot;//mrare.us8.list-manage.com/subscribe/post?u=77142ece814d3cff52058a51f&amp;id=94d040322a&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate&quot; target=&quot;_blank&quot; novalidate>    <div id=&quot;mc_embed_signup_scroll&quot;>    <h2>Subscribe to our mailing list</h2><div class=&quot;indicates-required&quot;><span class=&quot;asterisk&quot;>*</span> indicates required</div><div class=&quot;mc-field-group&quot;>    <label for=&quot;mce-EMAIL&quot;>Email Address  <span class=&quot;asterisk&quot;>*</span></label>    <input type=&quot;email&quot; value=&quot;&quot; name=&quot;EMAIL&quot; class=&quot;required email&quot; id=&quot;mce-EMAIL&quot;></div><div class=&quot;mc-field-group&quot;>    <label for=&quot;mce-FNAME&quot;>First Name </label>    <input type=&quot;text&quot; value=&quot;&quot; name=&quot;FNAME&quot; class=&quot;&quot; id=&quot;mce-FNAME&quot;></div><div class=&quot;mc-field-group&quot;>    <label for=&quot;mce-LNAME&quot;>Last Name </label>    <input type=&quot;text&quot; value=&quot;&quot; name=&quot;LNAME&quot; class=&quot;&quot; id=&quot;mce-LNAME&quot;></div>    <div id=&quot;mce-responses&quot; class=&quot;clear&quot;>        <div class=&quot;response&quot; id=&quot;mce-error-response&quot; style=&quot;display:none&quot;></div>        <div class=&quot;response&quot; id=&quot;mce-success-response&quot; style=&quot;display:none&quot;></div>    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->    <div style=&quot;position: absolute; left: -5000px;&quot;><input type=&quot;text&quot; name=&quot;b_77142ece814d3cff52058a51f_94d040322a&quot; tabindex=&quot;-1&quot; value=&quot;&quot;></div>    <div class=&quot;clear&quot;><input type=&quot;submit&quot; value=&quot;Subscribe&quot; name=&quot;subscribe&quot; id=&quot;mc-embedded-subscribe&quot; class=&quot;button&quot;></div>    </div></form></div><script type='text/javascript' src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script><!--End mc_embed_signup-->" class="mail-list-form">
-</iframe>
-</form>
 </div>
 </div>
 </div>
