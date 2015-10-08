@@ -183,7 +183,7 @@ KfW Stiftung is a foundation that engages directly with the major challenges fac
 </div>
 <div class=row>
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 col-lg-offset-1 col-sm-offset-4 col-md-offset-1">
-<a class="btn-filled btn" href=http://ankommer.eu/EN/project/project-partner style=margin-top:35px>Learn more / deadline 11 october</a> </center>
+<a class="btn-filled btn" href=http://ankommer.eu/EN/project/project-partner style=margin-top:35px target=_blank>Learn more / deadline 11 october</a>
 </div>
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 col-lg-offset-1 col-sm-offset-4 col-md-offset-1">
 <img class=img-responsive width=100% alt=Pic src=img/SI-landscape.png>

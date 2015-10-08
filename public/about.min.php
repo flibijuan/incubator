@@ -198,7 +198,7 @@ Co-founder of Exponential Network. This makes her an expert in refugee-ventures,
 </div>
 </div><div class="col-sm-6 col-md-3">
 <div class="image-tile outer-title text-center">
-<img alt=Pic src=img/Paula.jpg>
+<img alt=Pic src=img/paula.jpg>
 <div class="title mb16">
 <h5 class="uppercase mb0">Paula Schwarz&nbsp;</h5>
 <span>Network management &amp; StartUpBoat</span>
