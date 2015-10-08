@@ -19,7 +19,7 @@
 <div class=row>
 <div class="col-sm-offset-1 text-center col-sm-10">
 <h3 class="uppercase color-primary mb40 mb-xs-24">is A Place for fast growth</h3>
-<p class=lead>Kiron ventures is a Berlin based start-up incubator program, funding driven and innovative entrepreneurs that want to create social impact, by creating solutions for the refugee crisis.<br><br> Our program bridge ideas from ideation to a ready to fund concept by providing a team with Business mentoring, Technological support, co-working space and a network of social investors, entrepreneurs, professionals and government members.&nbsp;Every programs offered by Kiron ventures is in partnership with other top quality incubators all over Europe which provide their expertise in an specific sector.
+<p class=lead>Kiron ventures is a Berlin based start-up incubator program, funding driven and innovative entrepreneurs that want to create social impact, by creating solutions for the refugee crisis.<br><br> Our program bridge ideas from ideation to a ready to fund concept by providing a team with business mentoring, technological support, co-working space and a network of social investors, entrepreneurs, professionals and government members.&nbsp;Every programs offered by Kiron ventures is in partnership with other top quality incubators all over Europe which provide their expertise in an specific sector.
 <br><br>
 We have an open call for entrepreneurs to submit ideas and apply for the program but also work close together with corporations to stablish problems that they want to tackle and attract entrepreneurs to solve the challenges.
 </p>
@@ -66,7 +66,7 @@ Every start-up will be coach by experts, investors, the best entrepreneurs in Be
 <div class="feature feature-1 boxed">
 <div class=text-center>
 <i class="icon pe-7s-rocket"></i>
-<h5 class=uppercase>Technologycal support</h5>
+<h5 class=uppercase>Technological support</h5>
 </div>
 <p>
 We will provide the technical skills that you are missing in your team, our network of motivated designers, developers and engineers are willing to help and partner with you.
@@ -90,10 +90,11 @@ We will provide the technical skills that you are missing in your team, our netw
 <div class=feature>
 <h1 class="large uppercase mb64 mb-xs-24">our story</h1>
 <p class="mb80 mb-xs-24">The Kiron ventures is a story that starts,&nbsp;out of the needs for a structured way to create innovative ways to tackle the current refugee crisis. <br><br>
-In mid 2015 Kiron university and Start-up boat, booth institutions combining the start-up world to create social impact and tackle the refugee crisis.
-Talked about the the real impact that start-up can make on the refugee crisis, and how complicated was to create a network of social investors, government representatives and entrepreneurs that could push small innovative projects to really have a social impact.
-<br><br>The team decided that the network and experience they collect, combined with their&nbsp;consulting, investment and start-up experience could be shared and exploded by everyone with innovative solutions to tackle social problems.
-Kiron ventures stablished A system with all the tools that an entrepreneur would need to have an impact
+In mid-2015 Kiron University and Startup boat, both institutions combining the startups world to create social impact and tackle the refugee crisis.
+We talked about the the real impact that startups can make on the refugee crisis, and how complicated it would be to create a network of social investors, government representatives and entrepreneurs that could push small innovative projects to really have a social impact.
+The team decided that their collective network and experience, combined with their consulting, investment and startup experience could be shared and exploited by everyone with innovative solutions to tackle social problems.
+techno
+Kiron Ventures established a system with all the tools that an entrepreneur would need to have an impact
 <br><br>- A network of individuals committed for the cause
 <br>- Impact investment
 <br>- Technical support to develop products or services<br>
@@ -115,7 +116,7 @@ Kiron ventures stablished A system with all the tools that an entrepreneur would
 <i class="mb40 mb-xs-24 inline-block color-primary et-line-flag icon-lg"></i>
 <h5 class=uppercase>mission</h5>
 </div>
-<p>&nbsp;“ Provide our network of impact investors and corporate partners with the best social startUps tackling the refugee crisis , and provide the new ventures with all the tools and skills they required to create a sustainable, scalable business ”&nbsp;</p>
+<p>“Provide our network of impact investors and corporate partners with the best social startups tackling the refugee crisis , and provide the new ventures with all the tools and skills they required to create a sustainable, scalable business ”&nbsp;</p>
 </div>
 </div>
 <div class="col-sm-6 text-center">
@@ -124,7 +125,7 @@ Kiron ventures stablished A system with all the tools that an entrepreneur would
 <i class="mb40 mb-xs-24 inline-block color-primary et-line-compass icon-lg"></i>
 <h5 class=uppercase>vision</h5>
 </div>
-<p>“ kiron ventures enables dislocated people to shape their own future by starting their own business. kiron ventures will inspire them to build their company as social entrepreneurs, where money is means to an end but not the goal.” &nbsp;</p>
+<p>Kiron Ventures enables dislocated people to shape their own future by starting their own business. kiron ventures will inspire them to build their company as social entrepreneurs, where money is means to an end but not the goal.” &nbsp;</p>
 </div>
 </div>
 </div>
@@ -134,7 +135,7 @@ Kiron ventures stablished A system with all the tools that an entrepreneur would
 <div class=row>
 <div class=col-sm-6>
 <h4 class=uppercase>How do we meassure success</h4>
-<p>We focus on 3 aspects; all Kiron Ventures startups are expected to run a sustainable company that can provide a reasonable return on investment (5 to 10%). Startups must be capable to grow their business at fast paste and more important they should create massive quantifiable social impact.
+<p>We focus on 3 aspects: all Kiron Ventures startups are expected to run a sustainable company that can provide a reasonable return on investment (5 to 10%). Startups must be capable to grow their business at fast paste and more important they should create massive quantifiable social impact.
 </p>
 </div>
 <div class=col-sm-6>
