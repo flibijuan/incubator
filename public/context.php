@@ -18,32 +18,40 @@
 		<div class="main-container">
 
 
+      <div class="row">
+          <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
+              <h2>The global migration chrisis </h2>
+              <p class="mb40 mb-xs-24">
+                  This is a global problem and it affects more than 60 milion displaced people.
+              </p>
+
+          </div>
+        </div>
 
 
 
-
-
-			<iframe src="http://nikolasander.com/refugees/embed.html " width="700px" height="800px" frameborder="0"></iframe>
-
-
-
-
+<div style="position:relative ; padding-bottom: 87.5% ; height:0 ; overflow: hidden; margin-bottom: -20%">
+		<iframe style = "position: absolute ; top:0 ; left:0 ; width:100% ; height: 100%" src="http://nikolasander.com/refugees/embed.html " frameborder="0"></iframe>
+</div>
 
 
 
 
 
 			<section>
+
+        <center><a class="btn-filled btn" href="http://www.unhcr.org/551128679.html">Lear more about the situation</a> <a class="btn-filled btn" href="http://www.unhcr.org/556725e69.html">Learn more about sitation forcast</a> </center>
+
 		        <div class="container">
 		            <div class="row mb64 mb-xs-24">
 		                <div class="col-md-10 col-md-offset-1 col-sm-12 text-center">
 		                    <h3>THIS ARE SOME OF THE IDEAS WE LOVE<br> AND USE AS EXAMPLE</h3>
 		                </div>
 		            </div>
-		            
+
 		            <div class="row">
 		                <div class="col-sm-4 text-center">
-		                    <div class="feature boxed cast-shadow-light"> 
+		                    <div class="feature boxed cast-shadow-light">
 		                        <img alt="Pic" class="image-small inline-block mb24" src="img/RORE.png">
 		                        <h4>"Refugee code school "</h4>
 		                        <p>
@@ -74,7 +82,7 @@
 		                    <div class="feature boxed cast-shadow-light">
 		                        <img alt="Pic" class="image-small inline-block mb24" src="img/RE.png">
 		                        <h4 src="img/RE.png" alt="Pic">"Crowdfunding for refugees"</h4>
-		                        
+
 		                        <span>
 		                            We are working here on a Platform which features Crowdfunding Projects from Refugees in Germany.<br><br>
 		                        </span>
@@ -83,7 +91,7 @@
 		                    <div class="feature boxed cast-shadow-light">
 		                        <img alt="Pic" class="image-small inline-block mb24" src="img/W3W.png">
 		                        <h4 src="img/W3W.png" alt="Pic">"The simplest way to communicate location"</h4>
-		                        
+
 		                        <span>&nbsp;A global grid of 57 trillion 3mx3m squares.<br>Each square has a 3 word address that can be communicated quickly, easily and no ambiguity.<br><br>
 		                        </span>
 		                    </div>
@@ -91,18 +99,27 @@
 		                    <div class="feature boxed cast-shadow-light">
 		                        <img alt="Pic" class="image-small inline-block mb24" src="img/UB.png">
 		                        <h4 src="img/UB.png" alt="Pic">"Craft and Designs"</h4>
-		                        
+
 		                        <span>which is German and can be loosely translated as cooking outside the box. cooking and bringing together people from all over the world, overcoming barriers.<br><br>
 		                        </span>
 		                    </div>
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section>
 
 		    <section>
+
+          <div class="row">
+              <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
+                  <h2>A growing network of mentors and IT specialist</h2>
+                  <p class="mb40 mb-xs-24">
+                      Kiron ventures mentors are professionals with diverse skills ranging from design, IT development, marketing, NGOs and politics. They will mentor you as a teacher and support you as a friend. Futhermore, they will also be helping you to execute and connect you to the right people to boost your organization. This remarkable team is conformed by wolrd cass IT-developers, 180 consulting group specialized in NGOs, Kiron university, experts investors from Tengelmann ventures and SoGal Ventures.
+                  </p>
+
+              </div>
 
 		    <div class="container">
             	<div class="row">
@@ -119,6 +136,8 @@
 
  						-->
 
+
+
             		   <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
             		   <img class="img-responsive" alt="Pic" src="img/sven.png"> <div class="title mb16">
             		   <h5 class="uppercase mb0">Sven Fund</h5>
@@ -127,52 +146,69 @@
 
 						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
 						<img class="img-responsive" alt="Pic" src="img/mons.png"> <div class="title mb16">
-                        <h5 class="uppercase mb0">PERSON NAME </h5>
-                        <span>PERSON TITLE</span>
+                        <h5 class="uppercase mb0">MÅNS GÅRDFELDT </h5>
+                        <span>COO, The Sandpit</span>
             		   </div> </div> </div>
 
 						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
 						<img class="img-responsive" alt="Pic" src="img/koen.png"> <div class="title mb16">
-                        <h5 class="uppercase mb0">PERSON NAME </h5>
-                        <span>PERSON TITLE</span>
+                        <h5 class="uppercase mb0">Koen Lenssen </h5>
+                        <span>Invest manager, Tangelmann Ventures</span>
             		   </div> </div> </div>
 
 						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
 						<img class="img-responsive" alt="Pic" src="img/elizabeth.png"> <div class="title mb16">
-                        <h5 class="uppercase mb0">PERSON NAME </h5>
-                        <span>PERSON TITLE</span>
+                        <h5 class="uppercase mb0">Elizabeth Galbut </h5>
+                        <span>Founding Partner, SoGal Ventures and <br>A-Level Capital<br></span>
             		   </div> </div> </div>
 
 						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
 						<img class="img-responsive" alt="Pic" src="img/pocket.png"> <div class="title mb16">
-                        <h5 class="uppercase mb0">PERSON NAME </h5>
-                        <span>PERSON TITLE</span>
+                        <h5 class="uppercase mb0">Pocket Sun</h5>
+                        <span>Founder SoGal Ventures</span>
             		   </div> </div> </div>
 
 						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
 						<img class="img-responsive" alt="Pic" src="img/adam.png"> <div class="title mb16">
-                        <h5 class="uppercase mb0">PERSON NAME </h5>
-                        <span>PERSON TITLE</span>
+                        <h5 class="uppercase mb0">Adam Roe </h5>
+                        <span>Data scientist and developer, Kiron</span>
             		   </div> </div> </div>
 
 						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
 						<img class="img-responsive" alt="Pic" src="img/lukas.png"> <div class="title mb16">
-                        <h5 class="uppercase mb0">PERSON NAME </h5>
-                        <span>PERSON TITLE</span>
+                        <h5 class="uppercase mb0">Lukas Zöllner </h5>
+                        <span>Back-end Developer, Kiron</span>
             		   </div> </div> </div>
 
 						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
 						<img class="img-responsive" alt="Pic" src="img/ryan.png"> <div class="title mb16">
-                        <h5 class="uppercase mb0">PERSON NAME </h5>
-                        <span>PERSON TITLE</span>
+                        <h5 class="uppercase mb0">Ryan Chung </h5>
+                        <span>Front-end Developer, Kiron</span>
             		   </div> </div> </div>
 
 						<div class="col-xs-6 col-s	m-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
 						<img class="img-responsive" alt="Pic" src="img/you.png"> <div class="title mb16">
-                        <h5 class="uppercase mb0">PERSON NAME </h5>
-                        <span>PERSON TITLE</span>
+                        <h5 class="uppercase mb0">Younes Ouaqasse </h5>
+                        <span>Political advisor, Kiron</span>
             		   </div> </div> </div>
 
+            <div class="col-xs-6 col-s	m-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+            <img class="img-responsive" alt="Pic" src="img/christian.png"> <div class="title mb16">
+                        <h5 class="uppercase mb0">Christian Vanizette </h5>
+                        <span>Cofunder MakeSense.org</span>
+                   </div> </div> </div>
+
+            <div class="col-xs-6 col-s	m-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+       			<img class="img-responsive" alt="Pic" src="img/Alexander.png"> <div class="title mb16">
+                        <h5 class="uppercase mb0">Alexander Schwab </h5>
+                        <span>180Degrees Consulting</span>
+                   </div> </div> </div>
+
+            <div class="col-xs-6 col-s	m-4 col-md-3 col-lg-3"> <div class="image-tile outer-title text-center">
+            <img class="img-responsive" alt="Pic" src="img/michael.png"> <div class="title mb16">
+                        <h5 class="uppercase mb0">Michael De Wachter </h5>
+                        <span>Product development, Kiron</span>
+                   </div> </div> </div>
 
             	</div>
       		</section>
@@ -182,31 +218,24 @@
 
 
 
-		            
+
+
+
+		    </div>
+
+		    </section>
+
+		    <section class="bg-secondary">
+		        <div class="container">
+
+
 		            <div class="row">
 		                <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
 		                    <h2>Our partners </h2>
 		                    <p class="mb40 mb-xs-24">
 		                        with our partners we want to create the environment and network to create impact
-							</p>
-		                </div>
-		            </div>
-		            
-		    </div>
-		        
-		    </section>
-
-		    <section class="bg-secondary">
-		        <div class="container">
-		            
-		            
-		            <div class="row">
-		                <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-		                    <h2>Built by professionals, just for you.</h2>
-		                    <p class="mb40 mb-xs-24">
-		                        Foundry is a remarkably complete template offering you a plethora of handcrafted design elements. Whether promoting a product, service or portfolio - Foundry's unique and flexible style has you covered.
 		                    </p>
-		                    
+
 		                </div>
 
 						<a name="partners"></a>
@@ -214,33 +243,33 @@
 
 
 		        </div>
-		        
+
 		    </section><section class="bg-secondary">
 		        <div class="container">
-		            
-		            
+
+
 		            <div class="row">
 		                <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
 		                    <h2>Our partners</h2>
 		                    <p class="mb40 mb-xs-24">with our partners we want to create the environment and network to create impact</p>
-		                    
+
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section><section class="bg-dark pt64 pb64">
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
 		                    <h2 class="mb8">Where to find us</h2>
 		                    <p class="lead mb40 mb-xs-24">If you want to get in contact with us, get to know about our investment system<br> or have questions about the application process send us an email at<br><br> contact@kironventures.com</p>
-		                    
+
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section><section class="image-bg parallax overlay">
 		            <div class="background-image-holder">
 		                <img alt="image" class="background-image" src="img/home-2-1.jpg">
@@ -252,7 +281,7 @@
 		                        <p>Don't worry, we hate spam too - that's why we only send out monthly emails.</p>
 		                    </div>
 		                </div>
-		                
+
 		                <div class="row mb80 mb-xs-24">
 		                    <div class="col-sm-6 col-sm-offset-3">
 		                        <form class="form-newsletter halves" data-success="Thanks for your registration, we will be in touch shortly." data-error="Please fill all fields correctly.">
@@ -263,17 +292,17 @@
 		                        </form>
 		                    </div>
 		                </div>
-		                
-		                
-		                
+
+
+
 		            </div>
-		            
+
 		        </section>
 
 		        <?php include_once($docpath . "/php/footer.php") ?>
 
 		        </div>
-		
+
 				 <script src="/js/head.load.min.js"></script>
                            <!-- load all js asynchronously but in order -->
                  <script>
@@ -284,6 +313,7 @@
                           	"/js/scripts.min.js"	);
                  </script>
 
+
+
     </body>
 </html>
-				

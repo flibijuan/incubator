@@ -17,23 +17,23 @@
     		    </nav>
     		</div>
 		<div class="main-container">
-					
-			
-					
-			
-					
-			
-					
-			
-					
-			
-					
-			
-					
-			
-					
-			
-					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<section>
 		        <div class="container">
 		            <div class="row">
@@ -41,15 +41,15 @@
 		                    <h3 class="uppercase color-primary mb40 mb-xs-24">is A Place for fast growth</h3>
 		                    <p class="lead">Kiron ventures is a Berlin based start-up incubator program, funding driven and innovative entrepreneurs that want to create social impact, by creating solutions for the refugee crisis.<br><br> Our program bridge ideas from ideation to a ready to fund concept by providing a team with Business mentoring, Technological support, co-working space and a network of social investors, entrepreneurs, professionals and government members.&nbsp;Every programs offered by Kiron ventures is in partnership with other top quality incubators all over Europe which provide their expertise in an specific sector.
 		<br><br>
-		
-		We have an open call for entrepreneurs to submit ideas and apply for the program but also work close together with corporations to stablish problems that they want to tackle and attract entrepreneurs to solve the challenges. 
-		
+
+		We have an open call for entrepreneurs to submit ideas and apply for the program but also work close together with corporations to stablish problems that they want to tackle and attract entrepreneurs to solve the challenges.
+
 		                    </p>
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section><section class="image-bg overlay parallax">
 		        <div class="background-image-holder">
 		            <img alt="Background" class="background-image" src="img/cover16.jpg">
@@ -63,7 +63,7 @@
 		                    </p>
 		                </div>
 		            </div>
-		            
+
 		            <div class="row">
 		                <div class="col-sm-3">
 		                    <div class="feature feature-1 boxed">
@@ -72,10 +72,10 @@
 		                            <h5 class="uppercase">NETWORK TO CREATE AN IMPACT</h5>
 		                        </div>
 		                        <p>
-		                            By tackling a problems affecting 50 Mio people world wide (the refugee crisis) we have gained an unique network and experience in the field of social entrepreneurship 
+		                            By tackling a problems affecting 50 Mio people world wide (the refugee crisis) we have gained an unique network and experience in the field of social entrepreneurship
 		</p>
 		                    </div>
-		                    
+
 		                </div>
 		                <div class="col-sm-3">
 		                    <div class="feature feature-1 boxed">
@@ -85,10 +85,10 @@
 		                        </div>
 		                        <p>
 		                            Every start-up will be coach by experts, investors, the best entrepreneurs in Berlin and supported by our network of partner incubators all over Europe.<br><br>
-		
+
 		                        </p>
 		                    </div>
-		                    
+
 		                </div>
 		                <div class="col-sm-3">
 		                    <div class="feature feature-1 boxed">
@@ -96,13 +96,13 @@
 		                            <i class="icon pe-7s-rocket"></i>
 		                            <h5 class="uppercase">Technologycal support</h5>
 		                        </div>
-		                        <p> 
-		                            
+		                        <p>
+
 		We will provide the technical skills that you are missing in your team, our network of motivated designers, developers and engineers are willing to help and partner with you.
-		
+
 		                        </p>
 		                    </div>
-		                    
+
 		                </div><div class="col-sm-3">
 		                    <div class="feature feature-1 boxed">
 		                        <div class="text-center">
@@ -111,12 +111,12 @@
 		                        </div>
 		                        <p>&nbsp;We provide amazing environments with our partner social impact lab, &nbsp;for start-up to be creative and share ideas, we promote the creation of synergies among all the entrepreneurs at our spaces.&nbsp;<br><br> </p>
 		                    </div>
-		                    
+
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section><section>
 		        <div class="container">
 		            <div class="row">
@@ -124,34 +124,34 @@
 		                    <div class="feature">
 		                        <h1 class="large uppercase mb64 mb-xs-24">our story</h1>
 		                        <p class="mb80 mb-xs-24">The Kiron ventures is a story that starts,&nbsp;out of the needs for a structured way to create innovative ways to tackle the current refugee crisis. <br><br>
-		
+
 		In mid 2015 Kiron university and Start-up boat, booth institutions combining the start-up world to create social impact and tackle the refugee crisis.
 		Talked about the the real impact that start-up can make on the refugee crisis, and how complicated was to create a network of social investors, government representatives and entrepreneurs that could push small innovative projects to really have a social impact.
-		<br><br>The team decided that the network and experience they collect, combined with their&nbsp;consulting, investment and start-up experience could be shared and exploded by everyone with innovative solutions to tackle social problems. 
-		
+		<br><br>The team decided that the network and experience they collect, combined with their&nbsp;consulting, investment and start-up experience could be shared and exploded by everyone with innovative solutions to tackle social problems.
+
 		Kiron ventures stablished A system with all the tools that an entrepreneur would need to have an impact
 		<br><br>-	A network of individuals committed for the cause
 		<br>-	Impact investment
-		<br>-	Technical support to develop products or services<br> 
+		<br>-	Technical support to develop products or services<br>
 		-	Advice for experts in the market.
-		 
-		
+
+
 		</p>
-		                        
+
 		                    </div>
 		                </div>
-		                
+
 		            <div class="col-sm-4 text-center">
 		                    <img class="mt80 mt-xs-0 mb24" alt="Pic" src="img/kironlogoblue.png">
 		                    <img class="col-md-pull-4 relative" alt="Pic" src="img/startupboat.png">
 		                </div></div>
-		            
+
 		        </div>
-		        
+
 		    </section><section>
 		        <div class="container">
-		            
-		            
+
+
 		            <div class="row">
 		                <div class="col-sm-6 text-center">
 		                    <div class="feature">
@@ -161,7 +161,7 @@
 		                        </div>
 		                        <p>&nbsp;“ Provide our network of impact investors and corporate partners with the best social startUps tackling the refugee crisis , and provide the new ventures with all the tools and skills they required to create a sustainable, scalable business ”&nbsp;</p>
 		                    </div>
-		                    
+
 		                </div>
 		                <div class="col-sm-6 text-center">
 		                    <div class="feature">
@@ -171,12 +171,12 @@
 		                        </div>
 		                        <p>“ kiron ventures enables dislocated people to shape their own future by starting their own business. kiron ventures will inspire them to build their company as social entrepreneurs, where money is means to an end but not the goal.” &nbsp;</p>
 		                    </div>
-		                    
+
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section><section class="bg-dark">
 		        <div class="container">
 		            <div class="row">
@@ -193,28 +193,28 @@
 		                                <span class="title">messurable social impact</span>
 		                            </div>
 		                        </div>
-		                        
+
 		                        <div class="progress progress-1">
 		                            <div class="progress-bar" data-progress="70">
 		                                <span class="title">Become a scale-up&nbsp; </span>
 		                            </div>
 		                        </div>
-		                        
+
 		                        <div class="progress progress-1">
 		                            <div class="progress-bar" data-progress="60">
 		                                <span class="title">Financial sustainability</span>
 		                            </div>
 		                        </div>
-		                        
-		                        
-		                        
+
+
+
 		                    </div>
-		                    
+
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section><section>
 		        <div class="container">
 		            <div class="row">
@@ -225,9 +225,9 @@
 		                            <h5 class="uppercase mb0">Vincent zimmer</h5>
 		                            <span>Business Development &amp; social impact</span>
 		                        </div>
-		                        <p class="mb0"> 
-		                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.
-		                        </p>
+		                        <p class="mb0">    
+                                is a serial entrepreneur currently leading the business development at Kiron university. has founded companies from Shanghai to Sao Paulo across diverse sectors such as healthcare and higher education.
+                            </p>
 		                    </div>
 		                </div>
 		                <div class="col-sm-6 col-md-3">
@@ -260,22 +260,22 @@
 		                            <span>Network management &amp; StartUpBoat</span>
 		                        </div>
 		                        <p class="mb0">
-		                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.
-		                        </p>
+		                            Cofounded the Exponential Networks.  It is also because of these experiences that she launched startup boat, an event in which young tech entrepreneurs and investors have grouped together to address the refugee crisis.
+                                  </p>
 		                    </div>
 		                </div>
 		            </div>
-		            
+
 		        </div>
-		        
+
 		    </section>
 
 
 		        		<?php include_once($docpath . "/php/footer.php") ?>
 
 		</div>
-		
-				
+
+
 	</div>
    <script src="/js/head.load.min.js"></script>
            <!-- load all js asynchronously but in order -->
@@ -288,4 +288,3 @@
                     </script>
     </body>
 </html>
-				

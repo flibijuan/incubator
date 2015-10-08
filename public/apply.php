@@ -19,33 +19,12 @@
 
 		<div class="main-container">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 			<section>
 
         <div class="container">
             <div class="row">
                 <div class="col-sm-10 col-sm-offset-1 text-center">
-                    <h3 class="uppercase color-primary mb40 mb-xs-24">Kiron ventures aplication</h3>
-                    <p class="lead">
-                        Applications for Kiron ventures can fall under 2 categories, 1) a group of entrepreneurs with an well thought idea that what’s to take it to he next level and get to know if it has market potential (pre-seed). 2) Or a group of entrepreneurs with an idea that has been validated and has some initial customer traction (seed). <br><br>
-  We expect all the teams to have projects that fulfill the following criteria:
-
-                    </p>
+                    <h3 class="uppercase color-primary mb40 mb-xs-24">What is Kiron ventures program about</h3>
                 </div>
             </div>
 
@@ -97,7 +76,7 @@
 		                            <h4>CO-WORKING SPACE&nbsp;</h4>
 		                        </div>
 		                        <p>
-		                            We provide an environments with our partner social impact lab, &nbsp;to be creative and share ideas. we promote the creation of synergies among all the entrepreneurs at our spaces.&nbsp;
+		                            An environments with our partner social impact lab, Ankommer, &nbsp;to be creative and share ideas. we promote the creation of synergies among all the entrepreneurs.&nbsp;
 
 		                        </p>
 		                    </div>
@@ -107,13 +86,16 @@
 
 		        </div>
 
-          <center>  <a class="btn-filled btn" href="#apply">Explore Foundry</a> </center>
+          <center>  <a class="btn-filled btn" href="#apply">Apply now</a>
+           <a class="btn-filled btn" href="#criteria">what we look for</a>
+         </center>
+
 
 		    </section><section>
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-10 col-sm-offset-1 text-center">
-		                    <h3 class="uppercase color-primary mb40 mb-xs-24">Kiron ventures aplication</h3>
+		                    <h3 class="uppercase color-primary mb40 mb-xs-24" id = "criteria">Kiron ventures aplication</h3>
 		                    <p class="lead">
 		                        Applications for Kiron ventures can fall under 2 categories, 1) a group of entrepreneurs with an well thought idea that what’s to take it to he next level and get to know if it has market potential (pre-seed). 2) Or a group of entrepreneurs with an idea that has been validated and has some initial customer traction (seed). <br><br>
 		We expect all the teams to have projects that fulfill the following criteria:
@@ -124,7 +106,7 @@
 
 		        </div>
 
-		    </section><section>
+		    
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-md-4 col-sm-6">
