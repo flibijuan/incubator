@@ -11,7 +11,7 @@
 <img class="img-responsive" alt="Pic" src="img/SB.png">
 </div>
 <div class="col-xs-6 col-sm-4 col-md-4 col-lg-4">
-<img class="img-responsive" alt="Pic" src="img/MH.png">
+<img class="img-responsive" alt="Pic" src="img/MH.jpg">
 </div>
 
 <!--
