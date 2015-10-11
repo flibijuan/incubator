@@ -89,8 +89,8 @@ We will provide the technical skills that you are missing in your team, our netw
 <div class="col-sm-offset-1 col-sm-7">
 <div class=feature>
 <h1 class="large uppercase mb64 mb-xs-24">our story</h1>
-<p class="mb80 mb-xs-24">The Kiron ventures is a story that starts,&nbsp;out of the needs for a structured way to create innovative ways to tackle the current refugee crisis. <br><br>
-In mid-2015 Kiron University and Startup boat, both institutions combining the startups world to create social impact and tackle the refugee crisis.
+<p class="mb80 mb-xs-24">The Kiron Ventures is a story that starts,&nbsp;out of the needs for a structured way to create innovative ways to tackle the current refugee crisis. <br><br>
+In mid-2015 Kiron, the international university for refugees, and Startup boat joined forces to create social impact and tackle the refugee crisis.
 We talked about the the real impact that startups can make on the refugee crisis, and how complicated it would be to create a network of social investors, government representatives and entrepreneurs that could push small innovative projects to really have a social impact.
 The team decided that their collective network and experience, combined with their consulting, investment and startup experience could be shared and exploited by everyone with innovative solutions to tackle social problems.
 techno
@@ -171,7 +171,7 @@ Kiron Ventures established a system with all the tools that an entrepreneur woul
 <span>Business Development &amp; social impact</span>
 </div>
 <p class=mb0>
-is a serial entrepreneur currently leading the business development at Kiron university. has founded companies from Shanghai to Sao Paulo across diverse sectors such as healthcare and higher education.
+is a serial entrepreneur currently leading the business development at Kiron. has founded companies from Shanghai to Sao Paulo across diverse sectors such as healthcare and higher education.
 </p>
 </div>
 </div>
@@ -194,7 +194,8 @@ Co-founder of Exponential Network. This makes her an expert in refugee-ventures,
 <h5 class="uppercase mb0">Juan David Mendieta</h5>
 <span>Business Vevelopment &amp; IT Management</span>
 </div>
-<p class=mb0>Juan David is a social entrepreneur, He attained professional experience in strategic management consulting, the IT industry co-developed Kiron university “free higher education for refugees”
+<p class=mb0>Juan David is a social entrepreneur, He attained professional experience in strategic management consulting, the IT industry
+co-developed Kiron “free higher education for refugees”
 </p>
 </div>
 </div><div class="col-sm-6 col-md-3">
