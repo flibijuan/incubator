@@ -5,6 +5,7 @@
 <?php $docpath = $_SERVER['DOCUMENT_ROOT'];?>
 <?php include_once($docpath . "/php/head.php"); ?>
 <?php include_once("php/googleanalytics.php") ?>
+<style>.fullerscreen{height:250vh}</style>
 </head>
 <body class=btn-rounded>
 <div class=nav-container>
@@ -158,13 +159,13 @@ We place a great deal of importance on the team, on its solidity and on its abil
 </div>
 </div>
 </section>
-<section class="cover fullscreen bg-secondary">
+<section class="cover fullerscreen bg-secondary">
 <div class=container-clearfix>
 <div class=row>
-<div class="col-sm-8 col-sm-offset-2 col-lg-8 col-lg-offset-2 col-xs-12 col-lg-8 col-lg-offset-2 text-center">
-<div style=position:relative;padding-bottom:87.5%;height:0;overflow:hidden;margin-bottom:-20%>
+<div class="col-sm-12 col-lg-8 col-lg-offset-2 col-xs-12 col-lg-8 col-lg-offset-2 text-center">
+<div style=position:relative;padding-bottom:87.5%;height:240vh;margin-bottom:0>
 <h3 class="uppercase mb0" id=apply style=margin-top:50px;color:#8dd0a9>Application Form</h3>
-<iframe style=position:absolute;top:120px;left:0;width:100%;height:100% src="https://docs.google.com/forms/d/1arcsWQ5rAtJ9ECCo8hU-g116vwDDkT5kqaDP2LvaH7A/viewform?embedded=true" frameborder=0></iframe>
+<iframe style=position:absolute;top:60px;left:0;width:100%;height:100% src="https://docs.google.com/forms/d/1arcsWQ5rAtJ9ECCo8hU-g116vwDDkT5kqaDP2LvaH7A/viewform?embedded=true" frameborder=0></iframe>
 </div>
 </div>
 </div>
